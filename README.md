@@ -51,6 +51,18 @@ This was originally developed as a private project intended for client distribut
 F-Top Command - Retrieves ingame leaderboard and formats
 ![FTop Command](Showcase/FTopUpdate.webp)
 
+
+F-Who - Retrieves data about each faction and formats
+![FWho Command](Showcase/FactionInfo.webp)
+
+
+Ingame Whitelisting - Links each discord user to their minecraft account
+![Ingame Whitelisting](Showcase/whitelisting.webp)
+
+
+Ingame Music - Ingame command that plays music through the discord bot in a discord voice chat
+![Ingame Music](Showcase/IngameMusic.webp)
+
 ---
 
 ### Prerequisites
