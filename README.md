@@ -49,7 +49,7 @@ This was originally developed as a private project intended for client distribut
 ### Preview
 
 F-Top Command - Retrieves ingame leaderboard and formats
-![FTop Command](showcase/FTopUpdate.png)
+![FTop Command](Showcase/FTopUpdate.png)
 
 ---
 
