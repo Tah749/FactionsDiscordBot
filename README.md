@@ -9,7 +9,7 @@ This was originally developed as a private project intended for client distribut
 ## 📦 Features
 
 ### 🔗 **In-Game ↔ Discord Integration**
-- Syncs Minecraft usernames to Discord users.
+- Syncs Minecraft accounts to Discord users.
 - Send in-game commands directly from Discord (`sudo`, `runcmd`, `rotate`).
 - Link deposit/withdrawal alerts to Discord.
 - View faction and player stats live from Minecraft (`ftop`, `ptop`, `fwho`, etc).
@@ -28,7 +28,7 @@ This was originally developed as a private project intended for client distribut
 - `playtime`, `deposit`, `playtop`, `dtop` for player contribution tracking.
 - `walls`, `buffers`, `rposttop`, `ctop`, `btop` for checker activity.
 - Live `ftop`, `ptop`, and `baltop` integration.
-- Vanish tracker that allowed players to bypass server plugins that hid staff members ingame (`vanish`)
+- Vanish tracker that allows players to bypass server plugins that hid staff members ingame (`vanish`)
 
 ### 🚨 **Alerts & Detectors**
 - TNT, player, and creeper proximity alerts (with coordinates).
