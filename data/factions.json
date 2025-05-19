@@ -1,0 +1,22 @@
+{
+    "Xenon": {
+        "online": "5",
+        "claims": 1966,
+        "bank": 0
+    },
+    "TheCows": {
+        "online": "5",
+        "claims": 2006,
+        "bank": 0
+    },
+    "Honey": {
+        "online": "0",
+        "claims": 0,
+        "bank": "41978780"
+    },
+    "NoXuS": {
+        "online": 0,
+        "claims": 1936,
+        "bank": 0
+    }
+}

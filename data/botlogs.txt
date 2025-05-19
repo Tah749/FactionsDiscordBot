@@ -1,0 +1,1360 @@
+04/03/2021, 14:52:01 ~ Xenon Factions Bot Authorised.
+04/03/2021, 14:52:11 ~ [CMD] Tah#1610: ,test
+04/03/2021, 14:53:06 ~ Xenon Factions Bot Authorised.
+04/03/2021, 14:53:07 ~ [CMD] Tah#1610: ,test
+04/03/2021, 14:54:33 ~ Xenon Factions Bot Authorised.
+16/03/2021, 20:20:20 ~ Xenon Factions Bot Authorised.
+16/03/2021, 20:20:30 ~ [CMD] Tah#1610: ,ftop
+16/03/2021, 20:21:20 ~ Xenon Factions Bot Authorised.
+16/03/2021, 20:21:26 ~ [CMD] Tah#1610: ,var
+16/03/2021, 20:21:28 ~ [CMD] Tah#1610: ,ftop
+16/03/2021, 20:21:52 ~ Xenon Factions Bot Authorised.
+16/03/2021, 20:21:56 ~ [CMD] Tah#1610: ,ftop
+16/03/2021, 20:22:03 ~ [CMD] Tah#1610: ,ftop
+16/03/2021, 20:24:21 ~ Xenon Factions Bot Authorised.
+18/03/2021, 19:07:59 ~ Xenon Factions Bot Authorised.
+18/03/2021, 19:08:12 ~ [CMD] Tah#1610: ,ftop
+18/03/2021, 19:08:44 ~ Xenon Factions Bot Authorised.
+18/03/2021, 19:08:50 ~ [CMD] Tah#1610: ,ftop
+18/03/2021, 19:08:57 ~ [CMD] Tah#1610: ,ftop
+18/03/2021, 19:12:36 ~ Xenon Factions Bot Authorised.
+18/03/2021, 19:14:58 ~ Xenon Factions Bot Authorised.
+18/03/2021, 19:15:33 ~ Xenon Factions Bot Authorised.
+18/03/2021, 19:15:46 ~ [CMD] Tah#1610: ,ftop
+18/03/2021, 19:15:53 ~ [CMD] Tah#1610: ,ftop
+18/03/2021, 19:16:10 ~ Xenon Factions Bot Authorised.
+18/03/2021, 19:16:22 ~ [CMD] Tah#1610: ,ftop
+18/03/2021, 19:16:35 ~ [CMD] Tah#1610: ,ftop
+18/03/2021, 19:17:38 ~ Xenon Factions Bot Authorised.
+18/03/2021, 19:17:49 ~ [CMD] Tah#1610: ,ftop
+19/03/2021, 17:20:32 ~ Xenon Factions Bot Authorised.
+19/03/2021, 17:20:46 ~ [CMD] Tah#1610: ,ftop
+19/03/2021, 17:35:19 ~ Xenon Factions Bot Authorised.
+19/03/2021, 17:36:07 ~ [CMD] Tah#1610: ,flist
+19/03/2021, 17:37:12 ~ Xenon Factions Bot Authorised.
+19/03/2021, 17:38:12 ~ [CMD] Tah#1610: ,flist
+19/03/2021, 17:38:22 ~ [CMD] Tah#1610: ,ftop
+19/03/2021, 17:41:06 ~ Xenon Factions Bot Authorised.
+19/03/2021, 17:41:12 ~ [CMD] Tah#1610: ,flist
+19/03/2021, 17:41:22 ~ [CMD] Tah#1610: ,runcomd hi
+19/03/2021, 17:41:55 ~ [CMD] Tah#1610: ,runcmd hi
+19/03/2021, 17:41:55 ~ Xenon Factions Bot Authorised.
+19/03/2021, 17:41:59 ~ [CMD] Tah#1610: ,runcmd hi
+19/03/2021, 17:42:13 ~ Xenon Factions Bot Authorised.
+19/03/2021, 17:43:11 ~ [CMD] Tah#1610: ,runcmd hi
+19/03/2021, 17:48:05 ~ Xenon Factions Bot Authorised.
+19/03/2021, 17:48:50 ~ [CMD] Tah#1610: ,runcmd hi
+19/03/2021, 18:18:45 ~ Xenon Factions Bot Authorised.
+19/03/2021, 18:19:00 ~ [CMD] Tah#1610: ,runcmd hi
+19/03/2021, 18:19:04 ~ [CMD] Tah#1610: ,baltop
+19/03/2021, 18:19:18 ~ [CMD] Tah#1610: ,baltop
+19/03/2021, 18:21:53 ~ Xenon Factions Bot Authorised.
+19/03/2021, 18:22:25 ~ [CMD] Tah#1610: ,baltop
+19/03/2021, 18:23:01 ~ Xenon Factions Bot Authorised.
+19/03/2021, 18:23:13 ~ [CMD] Tah#1610: ,baltop
+19/03/2021, 19:40:07 ~ Xenon Factions Bot Authorised.
+19/03/2021, 19:40:16 ~ [CMD] Tah#1610: ,vanish
+19/03/2021, 19:51:27 ~ Xenon Factions Bot Authorised.
+19/03/2021, 19:51:41 ~ [CMD] Tah#1610: ,vanish
+19/03/2021, 19:57:27 ~ Xenon Factions Bot Authorised.
+19/03/2021, 19:57:44 ~ Xenon Factions Bot Authorised.
+19/03/2021, 19:58:10 ~ [CMD] Tah#1610: ,vanish
+19/03/2021, 21:33:29 ~ [CMD] Tah#1610: ,vanish
+20/03/2021, 13:18:34 ~ Xenon Factions Bot Authorised.
+20/03/2021, 13:18:46 ~ [CMD] Tah#1610: ,say hi
+20/03/2021, 13:20:02 ~ Xenon Factions Bot Authorised.
+20/03/2021, 13:20:08 ~ [CMD] Tah#1610: ,say hi
+20/03/2021, 13:20:30 ~ Xenon Factions Bot Authorised.
+20/03/2021, 13:20:30 ~ [CMD] Tah#1610: ,say hi
+20/03/2021, 13:20:39 ~ [CMD] Tah#1610: ,say hi
+20/03/2021, 13:21:52 ~ Xenon Factions Bot Authorised.
+20/03/2021, 13:21:54 ~ [CMD] Tah#1610: ,say hi
+20/03/2021, 13:22:05 ~ [CMD] Tah#1610: ,say hi
+20/03/2021, 13:22:39 ~ [CMD] Tah#1610: ,say hi
+20/03/2021, 13:28:47 ~ Xenon Factions Bot Authorised.
+20/03/2021, 13:28:53 ~ [CMD] Tah#1610: ,calc 4
+20/03/2021, 13:28:55 ~ [CMD] Tah#1610: ,calc
+20/03/2021, 13:28:58 ~ [CMD] Tah#1610: ,calc 4+3
+20/03/2021, 13:29:03 ~ [CMD] Tah#1610: ,calc 4 - 453
+20/03/2021, 13:29:09 ~ [CMD] Tah#1610: ,calculator 2 + 56
+20/03/2021, 13:30:32 ~ Xenon Factions Bot Authorised.
+20/03/2021, 13:30:33 ~ [CMD] Tah#1610: ,calc 4+3
+20/03/2021, 13:30:37 ~ [CMD] Tah#1610: ,calculator 345+3
+20/03/2021, 13:53:15 ~ Xenon Factions Bot Authorised.
+20/03/2021, 13:53:51 ~ [CMD] Tah#1610: ,setign
+20/03/2021, 13:53:58 ~ [CMD] Tah#1610: ,setign
+20/03/2021, 13:54:21 ~ [CMD] Tah#1610: ,setign <@!555790039422992437>
+20/03/2021, 13:57:35 ~ Xenon Factions Bot Authorised.
+20/03/2021, 13:57:38 ~ [CMD] Tah#1610: ,setign <@!555790039422992437>
+20/03/2021, 13:59:42 ~ Xenon Factions Bot Authorised.
+20/03/2021, 13:59:46 ~ [CMD] Tah#1610: ,setign <@!555790039422992437>
+20/03/2021, 14:00:17 ~ Xenon Factions Bot Authorised.
+20/03/2021, 14:04:57 ~ Xenon Factions Bot Authorised.
+20/03/2021, 14:05:04 ~ [CMD] Tah#1610: ,setign <@!555790039422992437>
+20/03/2021, 14:05:09 ~ [CMD] Tah#1610: ,setign <@!555790039422992437> TahDa
+20/03/2021, 14:07:50 ~ Xenon Factions Bot Authorised.
+20/03/2021, 14:08:15 ~ [CMD] Tah#1610: ,setign <@!555790039422992437> TahDa
+20/03/2021, 14:08:23 ~ [CMD] Tah#1610: ,setign <@!724861275552612422> xPastor
+20/03/2021, 14:10:40 ~ [CMD] Tah#1610: ,setign
+20/03/2021, 14:37:10 ~ Xenon Factions Bot Authorised.
+20/03/2021, 14:37:15 ~ [CMD] Tah#1610: ,whitelist
+20/03/2021, 14:37:15 ~ [ERROR] list|add|remove|clear is not a valid channel.
+20/03/2021, 14:37:19 ~ [CMD] Tah#1610: ,whitelist list
+20/03/2021, 14:37:56 ~ Xenon Factions Bot Authorised.
+20/03/2021, 14:37:58 ~ [CMD] Tah#1610: ,whitelist list
+20/03/2021, 14:38:03 ~ [CMD] Tah#1610: ,whitelist
+20/03/2021, 14:38:40 ~ Xenon Factions Bot Authorised.
+20/03/2021, 14:38:40 ~ [CMD] Tah#1610: ,whitelist list
+20/03/2021, 14:39:02 ~ Xenon Factions Bot Authorised.
+20/03/2021, 14:39:03 ~ [CMD] Tah#1610: ,whitelist list
+20/03/2021, 14:40:25 ~ Xenon Factions Bot Authorised.
+20/03/2021, 14:40:26 ~ [CMD] Tah#1610: ,whitelist list
+20/03/2021, 14:41:25 ~ Xenon Factions Bot Authorised.
+20/03/2021, 14:41:29 ~ [CMD] Tah#1610: ,whitelist list
+20/03/2021, 14:42:16 ~ Xenon Factions Bot Authorised.
+20/03/2021, 14:42:16 ~ [CMD] Tah#1610: ,whitelist
+20/03/2021, 14:42:20 ~ [CMD] Tah#1610: ,whitelist list
+20/03/2021, 14:43:39 ~ Xenon Factions Bot Authorised.
+20/03/2021, 14:43:40 ~ [CMD] Tah#1610: ,whitelist list
+20/03/2021, 14:44:30 ~ Xenon Factions Bot Authorised.
+20/03/2021, 14:44:31 ~ [CMD] Tah#1610: ,whitelist list 2
+20/03/2021, 14:44:33 ~ [CMD] Tah#1610: ,whitelist list
+20/03/2021, 14:47:29 ~ Xenon Factions Bot Authorised.
+20/03/2021, 14:47:48 ~ [CMD] Tah#1610: ,whitelist list
+20/03/2021, 14:47:57 ~ [CMD] Tah#1610: ,whitelist list 1
+20/03/2021, 14:49:19 ~ Xenon Factions Bot Authorised.
+20/03/2021, 14:49:20 ~ [CMD] Tah#1610: ,whitelist list 1
+20/03/2021, 14:49:28 ~ [CMD] Tah#1610: ,whitelist list 2
+20/03/2021, 14:57:25 ~ Xenon Factions Bot Authorised.
+20/03/2021, 14:57:46 ~ [CMD] Tah#1610: ,whitelist list 1
+20/03/2021, 14:57:51 ~ [CMD] Tah#1610: ,whitelist list 2
+20/03/2021, 14:58:28 ~ Xenon Factions Bot Authorised.
+20/03/2021, 14:58:35 ~ [CMD] Tah#1610: ,whitelist list 2
+20/03/2021, 14:59:58 ~ Xenon Factions Bot Authorised.
+20/03/2021, 14:59:58 ~ [CMD] Tah#1610: ,whitelist list
+20/03/2021, 15:00:01 ~ [CMD] Tah#1610: ,whitelist list 2
+20/03/2021, 15:00:05 ~ [CMD] Tah#1610: ,whitelist list 4
+20/03/2021, 15:00:08 ~ [CMD] Tah#1610: ,whitelist list 7
+20/03/2021, 15:00:11 ~ [CMD] Tah#1610: ,whitelist list t
+20/03/2021, 15:00:13 ~ [CMD] Tah#1610: ,whitelist list 254523
+20/03/2021, 15:00:44 ~ Xenon Factions Bot Authorised.
+20/03/2021, 15:00:47 ~ [CMD] Tah#1610: ,whitelist list 1
+20/03/2021, 15:00:49 ~ [CMD] Tah#1610: ,whitelist list 2
+20/03/2021, 21:40:18 ~ Xenon Factions Bot Authorised.
+20/03/2021, 21:41:10 ~ Xenon Factions Bot Authorised.
+20/03/2021, 21:42:38 ~ Xenon Factions Bot Authorised.
+20/03/2021, 21:43:41 ~ [CMD] Tah#1610: ,runcmd f join tahda
+20/03/2021, 21:44:57 ~ Xenon Factions Bot Authorised.
+20/03/2021, 21:45:42 ~ Xenon Factions Bot Authorised.
+20/03/2021, 21:47:15 ~ [CMD] Tah#1610: ,sudo /f c f
+20/03/2021, 21:47:20 ~ [CMD] Tah#1610: ,sudo .
+20/03/2021, 21:47:26 ~ [CMD] Tah#1610: ,runcmd tpa tahda
+20/03/2021, 21:47:37 ~ [CMD] Tah#1610: ,sudo .
+20/03/2021, 21:47:42 ~ [CMD] Tah#1610: ,sudo .
+20/03/2021, 21:49:26 ~ Xenon Factions Bot Authorised.
+20/03/2021, 22:39:25 ~ [CMD] Tah#1610: ,whitelist add
+20/03/2021, 22:39:43 ~ Xenon Factions Bot Authorised.
+20/03/2021, 22:39:58 ~ [CMD] Tah#1610: ,whitelist add
+20/03/2021, 22:40:06 ~ [CMD] Tah#1610: ,whitelist
+20/03/2021, 22:40:57 ~ Xenon Factions Bot Authorised.
+20/03/2021, 22:41:00 ~ [CMD] Tah#1610: ,purge 99
+20/03/2021, 22:41:37 ~ Xenon Factions Bot Authorised.
+20/03/2021, 22:41:37 ~ [CMD] Tah#1610: ,purge 412
+20/03/2021, 22:41:40 ~ [CMD] Tah#1610: ,whitelist add
+20/03/2021, 22:42:20 ~ Xenon Factions Bot Authorised.
+20/03/2021, 22:43:24 ~ Xenon Factions Bot Authorised.
+20/03/2021, 22:43:27 ~ [CMD] Tah#1610: ,whitelist add
+20/03/2021, 22:44:06 ~ [CMD] Tah#1610: ,sudo .
+20/03/2021, 22:44:33 ~ Xenon Factions Bot Authorised.
+20/03/2021, 22:47:14 ~ Xenon Factions Bot Authorised.
+20/03/2021, 22:47:19 ~ [CMD] Tah#1610: ,whitelist add
+20/03/2021, 22:47:58 ~ Xenon Factions Bot Authorised.
+20/03/2021, 22:48:01 ~ [CMD] Tah#1610: ,whitelist add
+20/03/2021, 22:48:43 ~ Xenon Factions Bot Authorised.
+20/03/2021, 22:48:57 ~ [CMD] Tah#1610: ,whitelist add
+20/03/2021, 22:49:44 ~ Xenon Factions Bot Authorised.
+20/03/2021, 22:50:01 ~ [CMD] Tah#1610: ,whitelist add
+20/03/2021, 22:50:14 ~ [CMD] Tah#1610: ,whitelist add
+20/03/2021, 22:50:15 ~ [CMD] Tah#1610: ,whitelist add
+20/03/2021, 22:51:51 ~ Xenon Factions Bot Authorised.
+20/03/2021, 22:51:52 ~ [CMD] Tah#1610: ,whitelist add
+20/03/2021, 22:52:44 ~ Xenon Factions Bot Authorised.
+20/03/2021, 22:53:07 ~ [CMD] Tah#1610: ,whitelist add
+20/03/2021, 22:53:49 ~ [CMD] Tah#1610: ,whitelist list
+20/03/2021, 22:54:17 ~ Xenon Factions Bot Authorised.
+20/03/2021, 22:54:20 ~ [CMD] Tah#1610: ,whitelist list
+20/03/2021, 22:55:18 ~ Xenon Factions Bot Authorised.
+20/03/2021, 22:55:22 ~ [CMD] Tah#1610: ,whitelist list
+21/03/2021, 00:00:58 ~ Xenon Factions Bot Authorised.
+21/03/2021, 00:01:21 ~ [CMD] Tah#1610: ,whitelist add
+21/03/2021, 00:01:35 ~ [CMD] Tah#1610: ,whitelist add
+21/03/2021, 00:01:36 ~ [CMD] Tah#1610: ,whitelist add
+21/03/2021, 00:05:39 ~ Xenon Factions Bot Authorised.
+21/03/2021, 00:05:51 ~ [CMD] Tah#1610: ,whitelist add
+21/03/2021, 00:09:46 ~ Xenon Factions Bot Authorised.
+21/03/2021, 00:10:13 ~ [CMD] Tah#1610: ,whitelist add
+21/03/2021, 00:12:59 ~ Xenon Factions Bot Authorised.
+21/03/2021, 00:13:03 ~ [CMD] Tah#1610: ,whitelist add
+21/03/2021, 00:13:29 ~ [CMD] Tah#1610: ,whitelist add
+21/03/2021, 00:13:31 ~ [CMD] Tah#1610: ,whitelist add
+21/03/2021, 00:13:35 ~ [CMD] Tah#1610: ,whitelist add
+21/03/2021, 00:15:20 ~ Xenon Factions Bot Authorised.
+21/03/2021, 00:15:22 ~ [CMD] Tah#1610: ,whitelist add
+21/03/2021, 00:15:24 ~ [CMD] Tah#1610: ,whitelist add
+21/03/2021, 00:16:49 ~ Xenon Factions Bot Authorised.
+21/03/2021, 00:16:52 ~ [CMD] Tah#1610: ,whitelist add
+21/03/2021, 00:16:54 ~ [CMD] Tah#1610: ,whitelist add
+21/03/2021, 00:17:37 ~ Xenon Factions Bot Authorised.
+21/03/2021, 00:17:38 ~ [CMD] Tah#1610: ,whitelist add
+21/03/2021, 00:17:40 ~ [CMD] Tah#1610: ,whitelist add
+21/03/2021, 09:53:49 ~ Xenon Factions Bot Authorised.
+21/03/2021, 09:53:53 ~ [CMD] Tah#1610: ,queue
+21/03/2021, 09:54:02 ~ [CMD] Tah#1610: ,p
+21/03/2021, 09:54:47 ~ Xenon Factions Bot Authorised.
+21/03/2021, 09:54:55 ~ [CMD] Tah#1610: ,p
+21/03/2021, 09:56:11 ~ Xenon Factions Bot Authorised.
+21/03/2021, 09:56:13 ~ [CMD] Tah#1610: ,p
+21/03/2021, 09:56:22 ~ [CMD] Tah#1610: ,p funky friday
+21/03/2021, 09:56:37 ~ [CMD] Tah#1610: ,p funky friday
+21/03/2021, 09:57:24 ~ Xenon Factions Bot Authorised.
+21/03/2021, 09:57:25 ~ [CMD] Tah#1610: ,p funky friday
+21/03/2021, 09:57:32 ~ [CMD] Tah#1610: ,np
+21/03/2021, 09:57:34 ~ [CMD] Tah#1610: ,nowplaying
+21/03/2021, 09:57:35 ~ [CMD] Tah#1610: ,q
+21/03/2021, 09:57:37 ~ [CMD] Tah#1610: ,queue
+21/03/2021, 09:57:44 ~ [CMD] Tah#1610: ,p g walk lil mosey
+21/03/2021, 09:57:53 ~ [CMD] Tah#1610: ,queue
+21/03/2021, 09:57:54 ~ [CMD] Tah#1610: ,q
+21/03/2021, 09:57:56 ~ [CMD] Tah#1610: ,s
+21/03/2021, 09:58:43 ~ [CMD] Tah#1610: ,lyrics
+21/03/2021, 09:59:38 ~ [CMD] Tah#1610: ,rotate
+21/03/2021, 09:59:43 ~ [CMD] Tah#1610: ,whitelist list
+21/03/2021, 09:59:48 ~ [CMD] Tah#1610: ,setign <@!555790039422992437> TahDa
+21/03/2021, 09:59:51 ~ [CMD] Tah#1610: ,whitelist list
+21/03/2021, 09:59:54 ~ [CMD] Tah#1610: ,whitelist clean
+21/03/2021, 09:59:56 ~ [CMD] Tah#1610: ,whitelist list
+21/03/2021, 10:00:06 ~ [CMD] Tah#1610: ,rotate
+21/03/2021, 10:00:33 ~ Xenon Factions Bot Authorised.
+21/03/2021, 10:00:41 ~ [CMD] Tah#1610: ,rotate
+21/03/2021, 10:00:44 ~ [CMD] Tah#1610: ,whitelist list
+21/03/2021, 10:01:13 ~ [CMD] Tah#1610: ,whitelist list 1
+21/03/2021, 10:02:00 ~ Xenon Factions Bot Authorised.
+21/03/2021, 10:02:09 ~ [CMD] Tah#1610: ,whitelist list
+21/03/2021, 10:02:12 ~ [CMD] Tah#1610: ,whitelist clear
+21/03/2021, 10:02:14 ~ [CMD] Tah#1610: ,whitelist list
+21/03/2021, 10:02:17 ~ [CMD] Tah#1610: ,rotate
+21/03/2021, 10:02:22 ~ [CMD] Tah#1610: ,setign <@!555790039422992437> TahDa
+21/03/2021, 10:02:27 ~ [CMD] Tah#1610: ,setign <@!724861275552612422> xPastor
+21/03/2021, 10:02:31 ~ [CMD] Tah#1610: ,setign <@!800822990861893652> Plerun
+21/03/2021, 10:02:38 ~ [CMD] Tah#1610: ,setign @bezz
+21/03/2021, 10:02:43 ~ [CMD] Tah#1610: ,setign <@!774672175076212736> Bezerk
+21/03/2021, 10:02:48 ~ [CMD] Tah#1610: ,setign <@!789547187306627082> idfk
+21/03/2021, 10:02:50 ~ [CMD] Tah#1610: ,whitelist list
+21/03/2021, 10:02:54 ~ [CMD] Tah#1610: ,whitelist list 2
+21/03/2021, 10:02:58 ~ [CMD] Tah#1610: ,rotate
+21/03/2021, 10:03:00 ~ [CMD] Tah#1610: ,rotate ersfs
+21/03/2021, 10:03:09 ~ [CMD] Tah#1610: ,whitelist
+21/03/2021, 10:03:13 ~ [CMD] Tah#1610: ,withdraw
+21/03/2021, 10:03:44 ~ [CMD] Tah#1610: ,withdraw
+21/03/2021, 10:03:47 ~ [CMD] Tah#1610: ,withdraw
+21/03/2021, 10:05:46 ~ Xenon Factions Bot Authorised.
+21/03/2021, 10:05:51 ~ [CMD] Tah#1610: ,withdraw
+21/03/2021, 10:06:09 ~ Xenon Factions Bot Authorised.
+21/03/2021, 10:06:13 ~ [CMD] Tah#1610: ,withdraw
+21/03/2021, 10:06:16 ~ [CMD] Tah#1610: ,withdraw 2
+21/03/2021, 10:06:45 ~ Xenon Factions Bot Authorised.
+21/03/2021, 10:06:55 ~ [CMD] Tah#1610: ,withdraw 2
+21/03/2021, 10:07:28 ~ Xenon Factions Bot Authorised.
+21/03/2021, 10:07:33 ~ [CMD] Tah#1610: ,withdraw 2
+21/03/2021, 10:18:14 ~ Xenon Factions Bot Authorised.
+21/03/2021, 10:18:22 ~ [CMD] Tah#1610: ,runcmd yes
+21/03/2021, 10:18:45 ~ [CMD] Tah#1610: ,runcmd f invite tahda
+21/03/2021, 10:19:04 ~ [CMD] Tah#1610: ,runcmd f c f
+21/03/2021, 10:19:12 ~ [CMD] Tah#1610: ,whitelist add
+21/03/2021, 10:20:20 ~ Xenon Factions Bot Authorised.
+21/03/2021, 10:20:23 ~ [CMD] Tah#1610: ,whitelist add
+21/03/2021, 10:21:34 ~ Xenon Factions Bot Authorised.
+21/03/2021, 10:21:44 ~ [CMD] Tah#1610: ,whitelist add
+21/03/2021, 10:22:30 ~ Xenon Factions Bot Authorised.
+21/03/2021, 10:22:34 ~ [CMD] Tah#1610: ,whitelist add
+21/03/2021, 10:23:56 ~ Xenon Factions Bot Authorised.
+21/03/2021, 10:24:06 ~ [CMD] Tah#1610: ,WHITELIST ADD
+21/03/2021, 10:24:44 ~ Xenon Factions Bot Authorised.
+21/03/2021, 10:24:49 ~ [CMD] Tah#1610: ,whitelist add
+21/03/2021, 10:26:08 ~ Xenon Factions Bot Authorised.
+21/03/2021, 10:28:07 ~ Xenon Factions Bot Authorised.
+21/03/2021, 10:28:26 ~ [CMD] Tah#1610: ,p potato salad asap
+21/03/2021, 10:29:23 ~ [CMD] Tah#1610: ,queue
+21/03/2021, 10:32:34 ~ Xenon Factions Bot Authorised.
+21/03/2021, 10:32:48 ~ [CMD] Tah#1610: ,runcmd f join tahda
+21/03/2021, 10:32:59 ~ [CMD] Tah#1610: ,runcmd f join tahda
+21/03/2021, 13:04:06 ~ Xenon Factions Bot Authorised.
+21/03/2021, 13:04:27 ~ Xenon Factions Bot Authorised.
+21/03/2021, 13:12:17 ~ Xenon Factions Bot Authorised.
+21/03/2021, 15:04:37 ~ Xenon Factions Bot Authorised.
+21/03/2021, 15:05:13 ~ Xenon Factions Bot Authorised.
+21/03/2021, 15:05:23 ~ Xenon Factions Bot Authorised.
+21/03/2021, 15:05:32 ~ [CMD] Tah#1610: ,sudo /f c f
+21/03/2021, 15:05:35 ~ [CMD] Tah#1610: ,sudo .
+21/03/2021, 15:06:29 ~ Xenon Factions Bot Authorised.
+21/03/2021, 15:06:35 ~ [CMD] Tah#1610: ,sudo .
+21/03/2021, 15:06:38 ~ [CMD] Tah#1610: ,weewoo on
+21/03/2021, 15:06:40 ~ [CMD] Tah#1610: ,weewoo
+21/03/2021, 15:07:39 ~ Xenon Factions Bot Authorised.
+21/03/2021, 15:07:43 ~ [CMD] Tah#1610: ,weewoo on
+21/03/2021, 15:08:40 ~ Xenon Factions Bot Authorised.
+21/03/2021, 15:09:06 ~ [CMD] Tah#1610: ,weewoo on
+21/03/2021, 15:10:21 ~ Xenon Factions Bot Authorised.
+21/03/2021, 15:10:28 ~ [CMD] Tah#1610: ,weewoo on
+21/03/2021, 15:11:12 ~ Xenon Factions Bot Authorised.
+21/03/2021, 15:11:20 ~ [CMD] Tah#1610: ,weewoo on
+21/03/2021, 15:11:39 ~ [CMD] Tah#1610: ,weewoo test
+21/03/2021, 15:11:44 ~ [CMD] Tah#1610: ,weewoo off
+21/03/2021, 15:11:55 ~ [CMD] Tah#1610: ,grace
+21/03/2021, 15:12:15 ~ [CMD] Tah#1610: ,grace enable 2m
+21/03/2021, 15:12:41 ~ [CMD] Tah#1610: ,clear
+21/03/2021, 15:12:45 ~ [CMD] Tah#1610: ,clear
+21/03/2021, 15:12:48 ~ [CMD] Tah#1610: ,clear
+21/03/2021, 15:14:43 ~ Xenon Factions Bot Authorised.
+21/03/2021, 15:14:52 ~ [CMD] Tah#1610: ,clear
+21/03/2021, 15:15:34 ~ Xenon Factions Bot Authorised.
+21/03/2021, 15:15:40 ~ [CMD] Tah#1610: ,clear
+21/03/2021, 15:15:43 ~ [CMD] Tah#1610: ,clear
+21/03/2021, 15:15:46 ~ [CMD] Tah#1610: ,bclear
+21/03/2021, 15:16:19 ~ Xenon Factions Bot Authorised.
+21/03/2021, 15:16:41 ~ [CMD] Tah#1610: ,bchecked
+21/03/2021, 15:18:13 ~ [CMD] Tah#1610: ,rpostclear
+21/03/2021, 15:18:43 ~ Xenon Factions Bot Authorised.
+21/03/2021, 15:18:48 ~ [CMD] Tah#1610: ,rpostclear
+21/03/2021, 15:31:10 ~ Xenon Factions Bot Authorised.
+21/03/2021, 15:34:14 ~ Xenon Factions Bot Authorised.
+21/03/2021, 15:36:36 ~ Xenon Factions Bot Authorised.
+21/03/2021, 15:38:09 ~ Xenon Factions Bot Authorised.
+21/03/2021, 15:43:34 ~ Xenon Factions Bot Authorised.
+21/03/2021, 17:23:48 ~ Xenon Factions Bot Authorised.
+21/03/2021, 17:25:06 ~ [CMD] Tah#1610: ,help
+21/03/2021, 17:25:40 ~ Xenon Factions Bot Authorised.
+21/03/2021, 17:25:43 ~ [CMD] Tah#1610: ,help
+21/03/2021, 17:26:02 ~ Xenon Factions Bot Authorised.
+21/03/2021, 17:26:02 ~ [CMD] Tah#1610: ,help
+21/03/2021, 17:26:25 ~ Xenon Factions Bot Authorised.
+21/03/2021, 17:26:27 ~ [CMD] Tah#1610: ,help
+21/03/2021, 17:27:36 ~ Xenon Factions Bot Authorised.
+21/03/2021, 17:27:40 ~ [CMD] Tah#1610: ,help
+03/04/2021, 12:58:20 ~ Xenon Factions Bot Authorised.
+03/04/2021, 12:58:20 ~ [ERROR] channels.bank_channel is not a valid channel.
+03/04/2021, 12:59:09 ~ [ERROR] channels.bank_channel is not a valid channel.
+03/04/2021, 12:59:09 ~ Xenon Factions Bot Authorised.
+03/04/2021, 12:59:12 ~ [ERROR] channels.bank_channel is not a valid channel.
+03/04/2021, 12:59:35 ~ [ERROR] channels.claim_tracker is not a valid channel.
+03/04/2021, 12:59:48 ~ Xenon Factions Bot Authorised.
+03/04/2021, 12:59:48 ~ [ERROR] channels.bank_channel is not a valid channel.
+03/04/2021, 12:59:51 ~ [ERROR] channels.bank_channel is not a valid channel.
+03/04/2021, 13:00:00 ~ [ERROR] channels.bank_channel is not a valid channel.
+03/04/2021, 13:00:00 ~ [ERROR] channels.bank_channel is not a valid channel.
+03/04/2021, 13:00:11 ~ [CMD] Pastor#7551: ,help
+03/04/2021, 13:00:14 ~ [ERROR] channels.claim_tracker is not a valid channel.
+03/04/2021, 13:00:34 ~ [ERROR] channels.bank_channel is not a valid channel.
+03/04/2021, 13:00:34 ~ Xenon Factions Bot Authorised.
+03/04/2021, 13:00:37 ~ [ERROR] channels.bank_channel is not a valid channel.
+03/04/2021, 13:01:00 ~ [ERROR] channels.claim_tracker is not a valid channel.
+03/04/2021, 13:01:27 ~ [ERROR] channels.claim_tracker is not a valid channel.
+03/04/2021, 13:01:47 ~ Xenon Factions Bot Authorised.
+03/04/2021, 13:01:48 ~ [ERROR] channels.bank_channel is not a valid channel.
+03/04/2021, 13:02:10 ~ [ERROR] channels.bank_channel is not a valid channel.
+03/04/2021, 13:02:10 ~ Xenon Factions Bot Authorised.
+03/04/2021, 13:02:13 ~ [ERROR] channels.bank_channel is not a valid channel.
+03/04/2021, 13:02:24 ~ [CMD] Pastor#7551: ,runcmd yes
+03/04/2021, 13:02:24 ~ [ERROR] channels.bank_channel is not a valid channel.
+03/04/2021, 13:02:32 ~ [CMD] Pastor#7551: ,ftop
+03/04/2021, 13:02:34 ~ [ERROR] channels.bank_channel is not a valid channel.
+03/04/2021, 13:02:35 ~ [CMD] Pastor#7551: ,runcmd yes
+03/04/2021, 13:02:35 ~ [ERROR] channels.bank_channel is not a valid channel.
+03/04/2021, 13:02:35 ~ [ERROR] channels.bank_channel is not a valid channel.
+03/04/2021, 13:02:36 ~ [ERROR] channels.claim_tracker is not a valid channel.
+03/04/2021, 13:02:36 ~ [ERROR] channels.claim_tracker is not a valid channel.
+03/04/2021, 13:02:38 ~ [ERROR] channels.bank_channel is not a valid channel.
+03/04/2021, 13:02:53 ~ [ERROR] channels.bank_channel is not a valid channel.
+03/04/2021, 13:03:55 ~ Xenon Factions Bot Authorised.
+03/04/2021, 13:04:35 ~ [CMD] Pastor#7551: ,flist
+03/04/2021, 13:05:02 ~ Xenon Factions Bot Authorised.
+03/04/2021, 13:06:26 ~ Xenon Factions Bot Authorised.
+03/04/2021, 13:07:41 ~ [CMD] Pastor#7551: .fwho crows
+03/04/2021, 13:07:44 ~ [CMD] Pastor#7551: .fwho crows
+03/04/2021, 18:35:18 ~ Xenon Factions Bot Authorised.
+03/04/2021, 18:35:22 ~ [CMD] Pastor#7551: .macro
+03/04/2021, 18:48:42 ~ Xenon Factions Bot Authorised.
+03/04/2021, 18:48:49 ~ [CMD] Pastor#7551: .macro
+03/04/2021, 18:48:53 ~ [CMD] Pastor#7551: .macro delay
+03/04/2021, 18:49:03 ~ [CMD] Pastor#7551: .macro delay 10
+03/04/2021, 18:49:13 ~ [CMD] Pastor#7551: .macro delay 100
+03/04/2021, 18:49:33 ~ [CMD] Pastor#7551: .macro delay 10
+03/04/2021, 18:51:13 ~ Xenon Factions Bot Authorised.
+03/04/2021, 18:51:16 ~ [CMD] Pastor#7551: .macro delay 10
+03/04/2021, 18:52:10 ~ Xenon Factions Bot Authorised.
+03/04/2021, 18:52:11 ~ [CMD] Pastor#7551: .macro delay 10
+03/04/2021, 18:53:00 ~ Xenon Factions Bot Authorised.
+03/04/2021, 18:53:03 ~ [CMD] Pastor#7551: .macro delay 10
+03/04/2021, 18:55:55 ~ Xenon Factions Bot Authorised.
+03/04/2021, 18:55:56 ~ [CMD] Pastor#7551: .macro
+03/04/2021, 18:55:59 ~ [CMD] Pastor#7551: .macro command /f top
+03/04/2021, 18:56:10 ~ Xenon Factions Bot Authorised.
+03/04/2021, 18:56:11 ~ [CMD] Pastor#7551: .macro command /f top
+03/04/2021, 18:56:27 ~ Xenon Factions Bot Authorised.
+03/04/2021, 18:56:31 ~ [CMD] Pastor#7551: .macro command /f top
+03/04/2021, 18:56:43 ~ Xenon Factions Bot Authorised.
+03/04/2021, 18:56:43 ~ [CMD] Pastor#7551: .macro command /f top
+03/04/2021, 18:57:22 ~ Xenon Factions Bot Authorised.
+03/04/2021, 18:57:22 ~ [CMD] Pastor#7551: .macro command /f top
+03/04/2021, 18:59:00 ~ Xenon Factions Bot Authorised.
+03/04/2021, 18:59:07 ~ [CMD] Pastor#7551: .macro command /f top
+03/04/2021, 18:59:33 ~ Xenon Factions Bot Authorised.
+03/04/2021, 18:59:34 ~ [CMD] Pastor#7551: .macro command /f top
+03/04/2021, 18:59:49 ~ Xenon Factions Bot Authorised.
+03/04/2021, 18:59:50 ~ [CMD] Pastor#7551: .macro command /f top
+03/04/2021, 19:00:02 ~ Xenon Factions Bot Authorised.
+03/04/2021, 19:00:04 ~ [CMD] Pastor#7551: .macro command /f top
+03/04/2021, 19:00:09 ~ [CMD] Pastor#7551: .macro command /f top t
+03/04/2021, 19:02:52 ~ Xenon Factions Bot Authorised.
+03/04/2021, 19:02:56 ~ [CMD] Pastor#7551: .macro start
+03/04/2021, 19:03:05 ~ [CMD] Pastor#7551: .runcmd yes
+03/04/2021, 19:04:17 ~ Xenon Factions Bot Authorised.
+03/04/2021, 19:04:19 ~ [CMD] Pastor#7551: .macro enable
+03/04/2021, 19:04:27 ~ [CMD] Pastor#7551: .macro start
+03/04/2021, 19:05:19 ~ Xenon Factions Bot Authorised.
+03/04/2021, 19:05:23 ~ [CMD] Pastor#7551: .macro start
+03/04/2021, 19:07:25 ~ Xenon Factions Bot Authorised.
+03/04/2021, 19:07:26 ~ [CMD] Pastor#7551: .macro start
+03/04/2021, 19:09:20 ~ Xenon Factions Bot Authorised.
+03/04/2021, 19:09:22 ~ [CMD] Pastor#7551: .macro start
+03/04/2021, 19:11:04 ~ Xenon Factions Bot Authorised.
+03/04/2021, 19:11:06 ~ [CMD] Pastor#7551: .macro start
+03/04/2021, 19:13:31 ~ Xenon Factions Bot Authorised.
+03/04/2021, 19:13:33 ~ [CMD] Pastor#7551: .macro
+03/04/2021, 19:13:39 ~ [CMD] Pastor#7551: .macro
+03/04/2021, 19:14:33 ~ Xenon Factions Bot Authorised.
+03/04/2021, 19:14:39 ~ [CMD] Pastor#7551: .macro start
+03/04/2021, 19:14:47 ~ [CMD] Pastor#7551: .macro start
+04/04/2021, 08:58:53 ~ Xenon Factions Bot Authorised.
+04/04/2021, 08:58:57 ~ [CMD] Pastor#7551: .setign <@!724861275552612422> h
+04/04/2021, 08:59:27 ~ Xenon Factions Bot Authorised.
+04/04/2021, 08:59:31 ~ [CMD] Pastor#7551: .setign <@!724861275552612422> h
+04/04/2021, 08:59:46 ~ [CMD] Pastor#7551: .setign <@!724861275552612422> h
+04/04/2021, 09:00:52 ~ Xenon Factions Bot Authorised.
+04/04/2021, 09:00:55 ~ [CMD] Pastor#7551: .setign <@!724861275552612422> h
+04/04/2021, 09:01:23 ~ Xenon Factions Bot Authorised.
+04/04/2021, 09:01:25 ~ [CMD] Pastor#7551: .setign <@!724861275552612422> h
+04/04/2021, 09:03:51 ~ Xenon Factions Bot Authorised.
+04/04/2021, 09:03:55 ~ [CMD] Pastor#7551: .setign <@!724861275552612422> h
+04/04/2021, 09:04:23 ~ Xenon Factions Bot Authorised.
+04/04/2021, 09:06:31 ~ Xenon Factions Bot Authorised.
+04/04/2021, 09:07:24 ~ Xenon Factions Bot Authorised.
+04/04/2021, 09:08:27 ~ Xenon Factions Bot Authorised.
+04/04/2021, 09:09:11 ~ Xenon Factions Bot Authorised.
+04/04/2021, 09:09:45 ~ Xenon Factions Bot Authorised.
+04/04/2021, 09:10:27 ~ Xenon Factions Bot Authorised.
+04/04/2021, 09:13:11 ~ Xenon Factions Bot Authorised.
+04/04/2021, 13:15:23 ~ Xenon Factions Bot Authorised.
+04/04/2021, 13:15:27 ~ [CMD] Pastor#7551: .playtime
+04/04/2021, 13:15:29 ~ [CMD] Pastor#7551: .playtime top
+04/04/2021, 13:17:24 ~ Xenon Factions Bot Authorised.
+04/04/2021, 13:17:24 ~ [CMD] Pastor#7551: .playtime top
+04/04/2021, 13:17:56 ~ [CMD] Pastor#7551: .playtime top
+04/04/2021, 13:17:56 ~ Xenon Factions Bot Authorised.
+04/04/2021, 13:18:04 ~ [CMD] Pastor#7551: .playtime top
+04/04/2021, 13:18:21 ~ Xenon Factions Bot Authorised.
+04/04/2021, 13:18:28 ~ Xenon Factions Bot Authorised.
+04/04/2021, 13:18:37 ~ Xenon Factions Bot Authorised.
+04/04/2021, 13:18:48 ~ Xenon Factions Bot Authorised.
+04/04/2021, 13:18:49 ~ [CMD] Pastor#7551: .playtime top
+04/04/2021, 13:19:51 ~ Xenon Factions Bot Authorised.
+04/04/2021, 13:19:53 ~ [CMD] Pastor#7551: .playtime top
+04/04/2021, 13:21:30 ~ Xenon Factions Bot Authorised.
+04/04/2021, 13:21:31 ~ [CMD] Pastor#7551: .playtime top
+05/04/2021, 11:19:14 ~ Xenon Factions Bot Authorised.
+05/04/2021, 11:19:17 ~ [CMD] Pastor#7551: .playtime top
+05/04/2021, 11:19:21 ~ [CMD] Pastor#7551: .playtime reset
+05/04/2021, 11:19:24 ~ [CMD] Pastor#7551: .playtime top
+05/04/2021, 11:31:23 ~ Xenon Factions Bot Authorised.
+05/04/2021, 11:31:25 ~ [CMD] Pastor#7551: .playtime top
+05/04/2021, 11:31:27 ~ [CMD] Pastor#7551: .playtime reset
+05/04/2021, 11:31:29 ~ [CMD] Pastor#7551: .playtime top
+05/04/2021, 11:37:02 ~ Xenon Factions Bot Authorised.
+05/04/2021, 11:38:44 ~ [CMD] Pastor#7551: .deposit
+05/04/2021, 11:38:46 ~ [CMD] Pastor#7551: .deposits
+05/04/2021, 11:38:48 ~ [CMD] Pastor#7551: .deposit top
+05/04/2021, 11:38:51 ~ [CMD] Pastor#7551: .deposit reset
+05/04/2021, 11:38:53 ~ [CMD] Pastor#7551: .deposit top
+05/04/2021, 11:39:18 ~ Xenon Factions Bot Authorised.
+05/04/2021, 11:39:18 ~ [CMD] Pastor#7551: .deposit top
+05/04/2021, 11:41:20 ~ Xenon Factions Bot Authorised.
+05/04/2021, 11:41:25 ~ [CMD] Pastor#7551: .deposit
+05/04/2021, 11:41:26 ~ [CMD] Pastor#7551: .deposit top
+05/04/2021, 11:41:29 ~ [CMD] Pastor#7551: .deposit reset
+05/04/2021, 11:41:30 ~ [CMD] Pastor#7551: .help
+05/04/2021, 11:47:12 ~ Xenon Factions Bot Authorised.
+05/04/2021, 11:47:16 ~ [CMD] Pastor#7551: .btop
+05/04/2021, 11:47:18 ~ [CMD] Pastor#7551: .buffers
+05/04/2021, 11:47:20 ~ [CMD] Pastor#7551: .buffer
+05/04/2021, 11:47:22 ~ [CMD] Pastor#7551: .buffer top
+05/04/2021, 11:47:26 ~ [CMD] Pastor#7551: .buffer reset
+05/04/2021, 11:47:27 ~ [CMD] Pastor#7551: .buffer top
+05/04/2021, 11:49:25 ~ [CMD] Pastor#7551: .buffer top
+05/04/2021, 11:49:25 ~ Xenon Factions Bot Authorised.
+05/04/2021, 11:49:27 ~ [CMD] Pastor#7551: .ctop
+05/04/2021, 11:49:28 ~ [CMD] Pastor#7551: .walls
+05/04/2021, 11:49:29 ~ [CMD] Pastor#7551: .wall
+05/04/2021, 11:49:31 ~ [CMD] Pastor#7551: .wall top
+05/04/2021, 11:49:33 ~ [CMD] Pastor#7551: .wall reset
+05/04/2021, 11:49:34 ~ [CMD] Pastor#7551: .wall top
+05/04/2021, 11:49:36 ~ [CMD] Pastor#7551: .buffer reset
+05/04/2021, 11:49:37 ~ [CMD] Pastor#7551: .buffer top
+05/04/2021, 11:50:14 ~ Xenon Factions Bot Authorised.
+05/04/2021, 11:50:15 ~ [CMD] Pastor#7551: .buffer top
+05/04/2021, 11:50:36 ~ Xenon Factions Bot Authorised.
+05/04/2021, 11:50:38 ~ [CMD] Pastor#7551: .buffer top
+05/04/2021, 11:52:01 ~ Xenon Factions Bot Authorised.
+05/04/2021, 11:52:02 ~ [CMD] Pastor#7551: .routpost
+05/04/2021, 11:52:03 ~ [CMD] Pastor#7551: .rpost
+05/04/2021, 11:52:04 ~ [CMD] Pastor#7551: .rpost top
+05/04/2021, 11:52:26 ~ Xenon Factions Bot Authorised.
+05/04/2021, 11:52:26 ~ [CMD] Pastor#7551: .rpost top
+05/04/2021, 11:52:30 ~ [CMD] Pastor#7551: .rpost reset
+05/04/2021, 11:52:33 ~ [CMD] Pastor#7551: .rpost top
+05/04/2021, 11:53:26 ~ [CMD] Pastor#7551: .btop
+05/04/2021, 11:53:26 ~ Xenon Factions Bot Authorised.
+05/04/2021, 11:53:27 ~ [CMD] Pastor#7551: .ctop
+05/04/2021, 11:53:30 ~ [CMD] Pastor#7551: .playtop
+05/04/2021, 11:53:32 ~ [CMD] Pastor#7551: .rposttop
+05/04/2021, 11:53:34 ~ [CMD] Pastor#7551: .dtop
+05/04/2021, 11:53:47 ~ [CMD] Pastor#7551: .setign <@!724861275552612422> hi
+05/04/2021, 11:53:47 ~ Xenon Factions Bot Authorised.
+05/04/2021, 11:53:49 ~ [CMD] Pastor#7551: .ctop
+05/04/2021, 11:53:56 ~ [CMD] Pastor#7551: .clear
+05/04/2021, 11:53:58 ~ [CMD] Pastor#7551: .ctop
+05/04/2021, 11:54:21 ~ Xenon Factions Bot Authorised.
+05/04/2021, 11:54:22 ~ [CMD] Pastor#7551: .ctop
+05/04/2021, 12:16:33 ~ Xenon Factions Bot Authorised.
+05/04/2021, 12:16:48 ~ [CMD] Pastor#7551: .runcmd yes
+05/04/2021, 12:16:59 ~ [CMD] Pastor#7551: .runcmd f create hoohoo
+05/04/2021, 12:17:02 ~ [CMD] Pastor#7551: .runcmd f c f
+05/04/2021, 12:17:06 ~ [CMD] Pastor#7551: .activitycheck
+05/04/2021, 12:17:10 ~ [CMD] Pastor#7551: .activitycheck 30
+05/04/2021, 12:17:19 ~ [CMD] Pastor#7551: .sudo active
+05/04/2021, 12:17:35 ~ Xenon Factions Bot Authorised.
+05/04/2021, 12:17:37 ~ [CMD] Pastor#7551: .runcmd warp outpost
+05/04/2021, 12:17:41 ~ [CMD] Pastor#7551: .runcmd warp outpost
+05/04/2021, 12:17:46 ~ [CMD] Pastor#7551: .sudo hi
+05/04/2021, 12:17:50 ~ [CMD] Pastor#7551: .sudo hi
+05/04/2021, 12:17:55 ~ [CMD] Pastor#7551: .activitycheck 30
+05/04/2021, 12:18:01 ~ [CMD] Pastor#7551: .sudo .active
+05/04/2021, 12:18:15 ~ [CMD] Pastor#7551: .sudo .tps
+05/04/2021, 12:18:20 ~ [CMD] Pastor#7551: .sudo tps
+05/04/2021, 12:19:46 ~ Xenon Factions Bot Authorised.
+05/04/2021, 12:19:51 ~ [CMD] Pastor#7551: .sudo active
+05/04/2021, 12:19:57 ~ [CMD] Pastor#7551: .sudo .active
+05/04/2021, 12:20:08 ~ [CMD] Pastor#7551: .runcmd msg stevelagged active
+05/04/2021, 12:20:18 ~ [CMD] Pastor#7551: .runcmd msg stevelagged .active
+05/04/2021, 12:21:45 ~ Xenon Factions Bot Authorised.
+05/04/2021, 12:22:00 ~ [CMD] Pastor#7551: .sudo active
+05/04/2021, 12:22:05 ~ [CMD] Pastor#7551: .sudo .active
+05/04/2021, 12:22:39 ~ Xenon Factions Bot Authorised.
+05/04/2021, 12:22:49 ~ [CMD] Pastor#7551: .activitycheck 30
+05/04/2021, 12:23:09 ~ Xenon Factions Bot Authorised.
+05/04/2021, 12:23:17 ~ [CMD] Pastor#7551: .activitycheck 30
+05/04/2021, 12:24:06 ~ Xenon Factions Bot Authorised.
+05/04/2021, 12:24:14 ~ [CMD] Pastor#7551: .activitycheck 30
+05/04/2021, 12:24:33 ~ Xenon Factions Bot Authorised.
+05/04/2021, 12:24:41 ~ [CMD] Pastor#7551: .activitycheck 30
+05/04/2021, 12:24:53 ~ [CMD] Pastor#7551: .sudo .active
+05/04/2021, 12:25:46 ~ Xenon Factions Bot Authorised.
+05/04/2021, 12:25:48 ~ [CMD] Pastor#7551: .sudo .active
+05/04/2021, 12:25:55 ~ [CMD] Pastor#7551: .activitycheck
+05/04/2021, 12:25:59 ~ [CMD] Pastor#7551: .activitycheck 30
+05/04/2021, 12:28:12 ~ Xenon Factions Bot Authorised.
+05/04/2021, 12:29:26 ~ Xenon Factions Bot Authorised.
+05/04/2021, 12:29:46 ~ Xenon Factions Bot Authorised.
+05/04/2021, 12:30:41 ~ Xenon Factions Bot Authorised.
+05/04/2021, 12:30:49 ~ [CMD] Pastor#7551: .activitycheck 30
+05/04/2021, 12:30:53 ~ [CMD] Pastor#7551: .sudo .active
+05/04/2021, 14:58:48 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:01:27 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:01:34 ~ [CMD] Pastor#7551: .marry
+05/04/2021, 15:01:39 ~ [CMD] Pastor#7551: .marry <@!555790039422992437>
+05/04/2021, 15:02:41 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:02:41 ~ [CMD] Pastor#7551: .marry <@!724861275552612422>
+05/04/2021, 15:02:45 ~ [CMD] Pastor#7551: .marryaccept
+05/04/2021, 15:03:14 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:03:19 ~ [CMD] Pastor#7551: .marry <@!724861275552612422>
+05/04/2021, 15:03:22 ~ [CMD] Pastor#7551: .marryaccept
+05/04/2021, 15:03:51 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:03:58 ~ [CMD] Pastor#7551: .marry <@!724861275552612422>
+05/04/2021, 15:04:02 ~ [CMD] Pastor#7551: .marryaccept
+05/04/2021, 15:04:27 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:04:45 ~ [CMD] Pastor#7551: .marry <@!724861275552612422>
+05/04/2021, 15:04:47 ~ [CMD] Pastor#7551: .marryaccept
+05/04/2021, 15:05:50 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:05:50 ~ [CMD] Pastor#7551: .marry <@!724861275552612422>
+05/04/2021, 15:05:53 ~ [CMD] Pastor#7551: .marryaccept
+05/04/2021, 15:07:48 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:07:53 ~ [CMD] Pastor#7551: .marry <@!724861275552612422>
+05/04/2021, 15:07:55 ~ [CMD] Pastor#7551: .marryaccept
+05/04/2021, 15:09:41 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:09:45 ~ [CMD] Pastor#7551: .marry <@!724861275552612422>
+05/04/2021, 15:12:19 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:12:21 ~ [CMD] Pastor#7551: .marry <@!724861275552612422>
+05/04/2021, 15:12:24 ~ [CMD] Pastor#7551: .marryaccept
+05/04/2021, 15:13:06 ~ [CMD] Pastor#7551: .marry <@!724861275552612422>
+05/04/2021, 15:13:06 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:13:09 ~ [CMD] Pastor#7551: .marryaccept
+05/04/2021, 15:13:59 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:14:00 ~ [CMD] Pastor#7551: .marry <@!724861275552612422>
+05/04/2021, 15:14:02 ~ [CMD] Pastor#7551: .marryaccept
+05/04/2021, 15:16:05 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:16:05 ~ [CMD] Pastor#7551: .marry <@!724861275552612422>
+05/04/2021, 15:16:22 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:16:25 ~ [CMD] Pastor#7551: .marry <@!724861275552612422>
+05/04/2021, 15:16:27 ~ [CMD] Pastor#7551: .marryaccept
+05/04/2021, 15:16:35 ~ [CMD] Pastor#7551: .marrystatus
+05/04/2021, 15:17:08 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:17:12 ~ [CMD] Pastor#7551: .marrystatus
+05/04/2021, 15:17:17 ~ [CMD] Pastor#7551: .marrystatus <@!555790039422992437>
+05/04/2021, 15:17:21 ~ [CMD] Pastor#7551: .divorce
+05/04/2021, 15:17:24 ~ [CMD] Pastor#7551: .divorce <@!724861275552612422>
+05/04/2021, 15:18:02 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:20:45 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:21:06 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:21:40 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:21:44 ~ [CMD] Pastor#7551: .divorce <@!555790039422992437>
+05/04/2021, 15:21:51 ~ [CMD] Pastor#7551: .divorce <@!724861275552612422>
+05/04/2021, 15:21:58 ~ [CMD] Pastor#7551: .marry <@!724861275552612422>
+05/04/2021, 15:22:01 ~ [CMD] Pastor#7551: .marryreject
+05/04/2021, 15:23:20 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:23:23 ~ [CMD] Pastor#7551: .marry <@!724861275552612422>
+05/04/2021, 15:23:26 ~ [CMD] Pastor#7551: .marryreject
+05/04/2021, 15:30:48 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:30:51 ~ [CMD] Pastor#7551: .marry <@!724861275552612422>
+05/04/2021, 15:30:55 ~ [CMD] Pastor#7551: .marryreject
+05/04/2021, 15:31:00 ~ [CMD] Pastor#7551: .marry <@!724861275552612422>
+05/04/2021, 15:31:02 ~ [CMD] Pastor#7551: .marryaccept
+05/04/2021, 15:46:29 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:46:31 ~ [CMD] Pastor#7551: .setupquestions
+05/04/2021, 15:46:56 ~ Xenon Factions Bot Authorised.
+05/04/2021, 15:46:57 ~ [CMD] Pastor#7551: .setupquestions
+06/04/2021, 10:04:05 ~ Xenon Factions Bot Authorised.
+06/04/2021, 10:15:52 ~ Xenon Factions Bot Authorised.
+06/04/2021, 10:16:56 ~ Xenon Factions Bot Authorised.
+06/04/2021, 10:18:06 ~ Xenon Factions Bot Authorised.
+06/04/2021, 10:18:42 ~ Xenon Factions Bot Authorised.
+06/04/2021, 10:18:42 ~ [CMD] Pastor#7551: .apply
+06/04/2021, 10:19:50 ~ Xenon Factions Bot Authorised.
+06/04/2021, 10:19:52 ~ [CMD] Pastor#7551: .apply
+06/04/2021, 10:22:21 ~ [CMD] Pastor#7551: .setupquestions
+06/04/2021, 10:28:01 ~ Xenon Factions Bot Authorised.
+06/04/2021, 10:28:04 ~ [CMD] Pastor#7551: .setupquestions
+06/04/2021, 10:28:42 ~ Xenon Factions Bot Authorised.
+06/04/2021, 10:28:46 ~ [CMD] Pastor#7551: .setupquestions
+06/04/2021, 10:30:03 ~ Xenon Factions Bot Authorised.
+06/04/2021, 10:30:05 ~ [CMD] Pastor#7551: .setupquestions
+06/04/2021, 10:30:19 ~ [CMD] Pastor#7551: .apply
+06/04/2021, 10:30:22 ~ [ERROR] channels.application_logs is not a valid channel.
+06/04/2021, 10:32:23 ~ Xenon Factions Bot Authorised.
+06/04/2021, 10:32:25 ~ [CMD] Pastor#7551: .apply
+06/04/2021, 10:32:41 ~ [CMD] Pastor#7551: .accept <@!724861275552612422>
+06/04/2021, 10:34:48 ~ Xenon Factions Bot Authorised.
+06/04/2021, 10:34:50 ~ [CMD] Pastor#7551: .accept <@!724861275552612422>
+06/04/2021, 10:35:15 ~ Xenon Factions Bot Authorised.
+06/04/2021, 10:35:17 ~ [CMD] Pastor#7551: .accept <@!724861275552612422>
+06/04/2021, 10:35:35 ~ Xenon Factions Bot Authorised.
+06/04/2021, 10:35:37 ~ [CMD] Pastor#7551: .accept <@!724861275552612422>
+06/04/2021, 10:40:47 ~ Xenon Factions Bot Authorised.
+06/04/2021, 10:40:52 ~ [CMD] Pastor#7551: .apply
+06/04/2021, 10:41:19 ~ [CMD] Pastor#7551: .setupquestions
+06/04/2021, 10:41:19 ~ Xenon Factions Bot Authorised.
+06/04/2021, 10:41:41 ~ [CMD] Pastor#7551: .apply
+06/04/2021, 10:42:16 ~ [CMD] Pastor#7551: .status
+06/04/2021, 10:54:55 ~ Xenon Factions Bot Authorised.
+06/04/2021, 10:54:57 ~ [CMD] Pastor#7551: .blacklist
+06/04/2021, 10:55:00 ~ [CMD] Pastor#7551: .blacklist list
+06/04/2021, 10:55:08 ~ [CMD] Pastor#7551: .blacklist add <#784751244425429002>
+06/04/2021, 10:55:35 ~ Xenon Factions Bot Authorised.
+06/04/2021, 10:55:36 ~ [CMD] Pastor#7551: .blacklist add <#784751244425429002>
+06/04/2021, 10:55:42 ~ [CMD] Pastor#7551: .blacklist list
+06/04/2021, 10:55:47 ~ [CMD] Pastor#7551: .ftop
+06/04/2021, 10:55:49 ~ [CMD] Pastor#7551: .flist
+06/04/2021, 10:55:57 ~ [CMD] Pastor#7551: .blacklist remove <#784751244425429002>
+06/04/2021, 10:56:15 ~ Xenon Factions Bot Authorised.
+06/04/2021, 10:56:21 ~ [CMD] Pastor#7551: .blacklist list
+06/04/2021, 10:56:23 ~ [CMD] Pastor#7551: .blacklist remove <#784751244425429002>
+06/04/2021, 10:56:27 ~ [CMD] Pastor#7551: .blacklist list
+06/04/2021, 10:56:32 ~ [CMD] Pastor#7551: .blacklist add <#784751244425429002>
+06/04/2021, 10:56:42 ~ [CMD] Pastor#7551: .blacklist
+06/04/2021, 10:56:46 ~ [CMD] Pastor#7551: .blacklist add <#784751244425429002>
+06/04/2021, 10:56:49 ~ [CMD] Pastor#7551: .blacklist add <#784751241376563261>
+06/04/2021, 10:57:20 ~ Xenon Factions Bot Authorised.
+06/04/2021, 10:57:22 ~ [CMD] Pastor#7551: .blacklist add <#784751244425429002>
+06/04/2021, 10:57:28 ~ [CMD] Pastor#7551: .blacklist list
+06/04/2021, 10:57:51 ~ Xenon Factions Bot Authorised.
+06/04/2021, 10:58:09 ~ [CMD] Pastor#7551: .blacklist add <#784751244425429002>
+06/04/2021, 10:58:13 ~ [CMD] Pastor#7551: .blacklist list
+06/04/2021, 10:58:24 ~ [CMD] Pastor#7551: .blacklist add <#784751241376563261>
+06/04/2021, 10:58:28 ~ [CMD] Pastor#7551: .blacklist list
+06/04/2021, 10:58:32 ~ [CMD] Pastor#7551: .blacklist remove <#784751242722803742>
+06/04/2021, 10:58:51 ~ Xenon Factions Bot Authorised.
+06/04/2021, 10:59:05 ~ [CMD] Pastor#7551: .blacklist remove <#784751244425429002>
+06/04/2021, 10:59:08 ~ [CMD] Pastor#7551: .blacklist list
+06/04/2021, 10:59:11 ~ [CMD] Pastor#7551: .blacklist add <#784751245499432962>
+06/04/2021, 10:59:13 ~ [CMD] Pastor#7551: .blacklist clear
+06/04/2021, 10:59:15 ~ [CMD] Pastor#7551: .blacklist list
+06/04/2021, 11:03:18 ~ Xenon Factions Bot Authorised.
+06/04/2021, 11:05:34 ~ Xenon Factions Bot Authorised.
+06/04/2021, 11:05:39 ~ [CMD] Pastor#7551: .blacklist add <#784751244425429002>
+06/04/2021, 11:05:56 ~ [CMD] Pastor#7551: .blacklist remove <#784751244425429002>
+06/04/2021, 11:05:58 ~ [CMD] Pastor#7551: .ftop
+06/04/2021, 13:22:56 ~ Xenon Factions Bot Authorised.
+06/04/2021, 13:22:58 ~ [CMD] Pastor#7551: .promote
+06/04/2021, 13:23:10 ~ [CMD] Pastor#7551: .promote <@!724861275552612422> <@&743758384779624459> <#784751244425429002>
+06/04/2021, 13:23:39 ~ Xenon Factions Bot Authorised.
+06/04/2021, 13:23:39 ~ [CMD] Pastor#7551: .promote <@!724861275552612422> <@&743758384779624459> <#784751244425429002>
+06/04/2021, 13:24:16 ~ [CMD] Pastor#7551: .promote <@!724861275552612422> <@&743758384779624459> <#784751244425429002>
+06/04/2021, 13:24:16 ~ Xenon Factions Bot Authorised.
+06/04/2021, 13:24:40 ~ [CMD] Pastor#7551: .promote <@!555790039422992437> <@&751745039029239868>  <#784751244425429002>
+06/04/2021, 13:24:48 ~ [CMD] Pastor#7551: .promote <@!555790039422992437> <@&751745039029239868>  <#784751244425429002>
+06/04/2021, 13:24:52 ~ [CMD] Pastor#7551: .demote
+06/04/2021, 13:25:05 ~ [CMD] Pastor#7551: .demote <@!555790039422992437> <@&751745039029239868> <#784751244425429002>
+06/04/2021, 13:29:09 ~ Xenon Factions Bot Authorised.
+06/04/2021, 13:29:11 ~ [CMD] Pastor#7551: .botlogs
+06/04/2021, 13:35:08 ~ Xenon Factions Bot Authorised.
+06/04/2021, 13:35:11 ~ [CMD] Pastor#7551: .kick
+06/04/2021, 13:35:44 ~ Xenon Factions Bot Authorised.
+06/04/2021, 13:35:47 ~ [CMD] Pastor#7551: .kick
+06/04/2021, 13:35:53 ~ [CMD] Pastor#7551: .kick <@!807017539951001610>
+06/04/2021, 13:36:04 ~ [CMD] Pastor#7551: .kick <@!707705289390030858>
+06/04/2021, 13:36:09 ~ [CMD] Pastor#7551: .ban <@!707705289390030858>
+06/04/2021, 13:37:08 ~ [CMD] Pastor#7551: .ban
+06/04/2021, 13:37:08 ~ Xenon Factions Bot Authorised.
+06/04/2021, 13:37:16 ~ [CMD] Pastor#7551: .ban <@!555790039422992437>
+06/04/2021, 13:37:33 ~ [CMD] Pastor#7551: .ban <@!789547187306627082>
+06/04/2021, 13:40:53 ~ Xenon Factions Bot Authorised.
+06/04/2021, 13:41:00 ~ [CMD] Pastor#7551: .setpaypal
+06/04/2021, 13:41:06 ~ [CMD] Pastor#7551: .setpaypal <@!724861275552612422> gmail
+06/04/2021, 13:41:22 ~ [CMD] Pastor#7551: .setpaypal <@!555790039422992437> hi
+06/04/2021, 13:41:52 ~ Xenon Factions Bot Authorised.
+06/04/2021, 13:41:53 ~ [CMD] Pastor#7551: .setpaypal <@!555790039422992437> hi
+06/04/2021, 13:48:34 ~ [CMD] Pastor#7551: .tps
+06/04/2021, 13:48:34 ~ Xenon Factions Bot Authorised.
+06/04/2021, 13:50:08 ~ Xenon Factions Bot Authorised.
+06/04/2021, 13:50:10 ~ [CMD] Pastor#7551: .tps
+06/04/2021, 13:50:17 ~ [CMD] Pastor#7551: .tps
+06/04/2021, 13:54:17 ~ Xenon Factions Bot Authorised.
+06/04/2021, 13:54:21 ~ [CMD] Pastor#7551: .stats
+06/04/2021, 13:54:25 ~ [CMD] Pastor#7551: .stats <@!555790039422992437>
+06/04/2021, 14:09:42 ~ Xenon Factions Bot Authorised.
+06/04/2021, 14:09:43 ~ [CMD] Pastor#7551: .listrole
+06/04/2021, 14:09:47 ~ [CMD] Pastor#7551: .listroles
+06/04/2021, 14:09:49 ~ [CMD] Pastor#7551: .inrole <@&751745039029239868>
+06/04/2021, 14:09:54 ~ [CMD] Pastor#7551: .help
+06/04/2021, 14:10:21 ~ Xenon Factions Bot Authorised.
+06/04/2021, 14:10:22 ~ [CMD] Pastor#7551: .whitelist add
+06/04/2021, 14:10:27 ~ [CMD] Pastor#7551: .whitelist add
+06/04/2021, 14:10:37 ~ [CMD] Pastor#7551: .sudo hi
+06/04/2021, 14:10:40 ~ [CMD] Pastor#7551: .sudo .whitelist 724861275552612422-oqaFP64OLyCljrbh
+06/04/2021, 14:10:51 ~ [CMD] Pastor#7551: .whitelist list
+06/04/2021, 18:42:47 ~ Xenon Factions Bot Authorised.
+06/04/2021, 18:42:49 ~ [CMD] Pastor#7551: .set
+06/04/2021, 18:44:01 ~ Xenon Factions Bot Authorised.
+06/04/2021, 18:44:02 ~ [CMD] Pastor#7551: .set
+06/04/2021, 18:44:25 ~ Xenon Factions Bot Authorised.
+06/04/2021, 18:44:25 ~ [CMD] Pastor#7551: .set
+06/04/2021, 18:45:55 ~ Xenon Factions Bot Authorised.
+06/04/2021, 18:45:57 ~ [CMD] Pastor#7551: .set
+06/04/2021, 18:49:12 ~ Xenon Factions Bot Authorised.
+06/04/2021, 18:49:14 ~ [CMD] Pastor#7551: .set
+06/04/2021, 18:50:00 ~ Xenon Factions Bot Authorised.
+06/04/2021, 18:50:01 ~ [CMD] Pastor#7551: .set
+06/04/2021, 18:52:40 ~ Xenon Factions Bot Authorised.
+06/04/2021, 18:52:43 ~ [CMD] Pastor#7551: .set
+06/04/2021, 19:19:13 ~ Xenon Factions Bot Authorised.
+06/04/2021, 19:20:02 ~ Xenon Factions Bot Authorised.
+06/04/2021, 19:22:01 ~ [ERROR] channels.tps is not a valid channel.
+06/04/2021, 19:22:01 ~ [ERROR] channels.flist is not a valid channel.
+06/04/2021, 19:22:02 ~ [ERROR] channels.ftop is not a valid channel.
+06/04/2021, 19:22:04 ~ [ERROR] channels.ptop is not a valid channel.
+06/04/2021, 19:22:08 ~ [ERROR] channels.baltop is not a valid channel.
+06/04/2021, 19:24:01 ~ [ERROR] channels.tps is not a valid channel.
+06/04/2021, 19:24:01 ~ [ERROR] channels.flist is not a valid channel.
+06/04/2021, 19:24:05 ~ [ERROR] channels.ftop is not a valid channel.
+06/04/2021, 19:24:21 ~ Xenon Factions Bot Authorised.
+06/04/2021, 19:26:28 ~ Xenon Factions Bot Authorised.
+06/04/2021, 19:28:39 ~ Xenon Factions Bot Authorised.
+06/04/2021, 19:30:48 ~ Xenon Factions Bot Authorised.
+06/04/2021, 19:33:01 ~ Xenon Factions Bot Authorised.
+06/04/2021, 19:35:10 ~ Xenon Factions Bot Authorised.
+06/04/2021, 19:37:20 ~ [ERROR] channels.bank is not a valid channel.
+06/04/2021, 19:37:20 ~ [ERROR] channels.bank is not a valid channel.
+06/04/2021, 19:37:20 ~ Xenon Factions Bot Authorised.
+06/04/2021, 19:41:26 ~ Xenon Factions Bot Authorised.
+06/04/2021, 19:46:17 ~ Xenon Factions Bot Authorised.
+06/04/2021, 19:50:44 ~ [ERROR] channels.bank is not a valid channel.
+06/04/2021, 19:52:22 ~ [ERROR] channels.bank is not a valid channel.
+06/04/2021, 19:52:23 ~ Xenon Factions Bot Authorised.
+06/04/2021, 19:52:26 ~ [CMD] Pastor#7551: .flist
+06/04/2021, 19:54:23 ~ Xenon Factions Bot Authorised.
+06/04/2021, 19:57:36 ~ Xenon Factions Bot Authorised.
+06/04/2021, 19:58:47 ~ [CMD] Pastor#7551: .flist
+06/04/2021, 19:58:53 ~ [CMD] Pastor#7551: .flist
+06/04/2021, 20:00:44 ~ Xenon Factions Bot Authorised.
+06/04/2021, 20:02:36 ~ Xenon Factions Bot Authorised.
+06/04/2021, 20:04:26 ~ [ERROR] channels.bank is not a valid channel.
+06/04/2021, 20:06:54 ~ Xenon Factions Bot Authorised.
+06/04/2021, 20:08:30 ~ Xenon Factions Bot Authorised.
+07/04/2021, 09:41:31 ~ Xenon Factions Bot Authorised.
+07/04/2021, 09:42:22 ~ [CMD] Pastor#7551: .fto
+07/04/2021, 09:42:24 ~ [CMD] Pastor#7551: .ftop
+07/04/2021, 09:43:46 ~ Xenon Factions Bot Authorised.
+07/04/2021, 09:44:56 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 09:44:56 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 09:44:56 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 09:44:56 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 09:44:56 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 09:44:56 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 09:44:56 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 09:44:56 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 09:44:56 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 09:44:56 ~ Xenon Factions Bot Authorised.
+07/04/2021, 09:45:54 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 09:45:54 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 09:45:54 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 09:45:54 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 09:45:54 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 09:45:54 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 09:45:54 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 09:45:54 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 09:45:54 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 09:45:54 ~ Xenon Factions Bot Authorised.
+07/04/2021, 09:49:22 ~ Xenon Factions Bot Authorised.
+07/04/2021, 09:50:09 ~ [CMD] Pastor#7551: .flist
+07/04/2021, 09:51:52 ~ Xenon Factions Bot Authorised.
+07/04/2021, 09:54:25 ~ Xenon Factions Bot Authorised.
+07/04/2021, 09:57:10 ~ Xenon Factions Bot Authorised.
+07/04/2021, 09:59:16 ~ [CMD] Pastor#7551: .fwho honey
+07/04/2021, 10:00:05 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:01:27 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:02:30 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:03:18 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:05:15 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:06:35 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:07:28 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:08:23 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:09:19 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:14:12 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:16:05 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:20:17 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:20:20 ~ [CMD] Pastor#7551: .runcmd f create hoohoo
+07/04/2021, 10:20:24 ~ [CMD] Pastor#7551: .runcmd f c f
+07/04/2021, 10:20:27 ~ [CMD] Pastor#7551: .weewoo on
+07/04/2021, 10:20:59 ~ [CMD] Pastor#7551: .weewoo off
+07/04/2021, 10:21:05 ~ [CMD] Pastor#7551: .clear
+07/04/2021, 10:21:09 ~ [CMD] Pastor#7551: .stats
+07/04/2021, 10:21:12 ~ [CMD] Pastor#7551: .bclear
+07/04/2021, 10:21:14 ~ [CMD] Pastor#7551: .rpostclear
+07/04/2021, 10:21:25 ~ [CMD] Pastor#7551: .stats
+07/04/2021, 10:21:32 ~ [CMD] Pastor#7551: .runcmd f money d 1
+07/04/2021, 10:25:37 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:26:23 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:26:48 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:27:39 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:30:48 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:33:14 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:49:57 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:50:09 ~ [CMD] Pastor#7551: .runcmd yes
+07/04/2021, 10:50:18 ~ [CMD] Pastor#7551: .flist
+07/04/2021, 10:50:34 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:51:19 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:54:22 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:57:41 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 10:57:41 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 10:57:41 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:57:55 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:59:05 ~ Xenon Factions Bot Authorised.
+07/04/2021, 10:59:22 ~ Xenon Factions Bot Authorised.
+07/04/2021, 11:01:04 ~ Xenon Factions Bot Authorised.
+07/04/2021, 11:02:46 ~ Xenon Factions Bot Authorised.
+07/04/2021, 11:11:58 ~ [CMD] Pastor#7551: .set
+07/04/2021, 11:11:58 ~ Xenon Factions Bot Authorised.
+07/04/2021, 11:11:59 ~ [CMD] Pastor#7551: .set
+07/04/2021, 11:13:11 ~ Xenon Factions Bot Authorised.
+07/04/2021, 11:13:14 ~ [CMD] Pastor#7551: .set
+07/04/2021, 11:15:59 ~ Xenon Factions Bot Authorised.
+07/04/2021, 11:16:00 ~ [CMD] Pastor#7551: .et
+07/04/2021, 11:16:01 ~ [CMD] Pastor#7551: .set
+07/04/2021, 11:16:54 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 11:16:55 ~ Xenon Factions Bot Authorised.
+07/04/2021, 11:16:55 ~ [CMD] Pastor#7551: .set
+07/04/2021, 11:17:23 ~ Xenon Factions Bot Authorised.
+07/04/2021, 11:17:27 ~ [CMD] Pastor#7551: .set
+07/04/2021, 11:25:39 ~ Xenon Factions Bot Authorised.
+07/04/2021, 11:25:40 ~ [CMD] Pastor#7551: .set eneral
+07/04/2021, 11:25:43 ~ [CMD] Pastor#7551: .set general
+07/04/2021, 11:26:09 ~ Xenon Factions Bot Authorised.
+07/04/2021, 11:26:10 ~ [CMD] Pastor#7551: .set general
+07/04/2021, 11:30:24 ~ [CMD] Pastor#7551: .set
+07/04/2021, 11:30:24 ~ Xenon Factions Bot Authorised.
+07/04/2021, 11:30:26 ~ [CMD] Pastor#7551: .set general
+07/04/2021, 11:30:30 ~ [CMD] Pastor#7551: .set general prefix !
+07/04/2021, 11:31:20 ~ Xenon Factions Bot Authorised.
+07/04/2021, 11:31:33 ~ [CMD] Pastor#7551: !set general status hi
+07/04/2021, 11:31:40 ~ [CMD] Pastor#7551: !set general prefix .
+07/04/2021, 11:31:45 ~ [CMD] Pastor#7551: .set general status xenon on top baby
+07/04/2021, 11:32:10 ~ Xenon Factions Bot Authorised.
+07/04/2021, 11:32:15 ~ [CMD] Pastor#7551: .set general status xenon on top baby
+07/04/2021, 11:52:02 ~ Xenon Factions Bot Authorised.
+07/04/2021, 11:52:22 ~ [CMD] Pastor#7551: .set
+07/04/2021, 11:52:25 ~ [CMD] Pastor#7551: .set modules
+07/04/2021, 11:52:27 ~ [CMD] Pastor#7551: .set general
+07/04/2021, 12:57:06 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 12:57:06 ~ Xenon Factions Bot Authorised.
+07/04/2021, 12:57:07 ~ [CMD] Pastor#7551: .set modules
+07/04/2021, 12:57:12 ~ [CMD] Pastor#7551: .set modules serverchat true
+07/04/2021, 12:58:22 ~ [CMD] Pastor#7551: .set modules serverchat false
+07/04/2021, 12:58:24 ~ [CMD] Pastor#7551: .set modules
+07/04/2021, 12:58:28 ~ [CMD] Pastor#7551: .set modules autoftop false
+07/04/2021, 12:58:35 ~ [CMD] Pastor#7551: .set modules autoptop false
+07/04/2021, 12:59:02 ~ Xenon Factions Bot Authorised.
+07/04/2021, 13:03:01 ~ Xenon Factions Bot Authorised.
+07/04/2021, 13:05:37 ~ Xenon Factions Bot Authorised.
+07/04/2021, 13:05:40 ~ [CMD] Pastor#7551: .set
+07/04/2021, 13:05:42 ~ [CMD] Pastor#7551: .set general
+07/04/2021, 13:05:44 ~ [CMD] Pastor#7551: .set modules
+07/04/2021, 13:05:45 ~ [CMD] Pastor#7551: .set bot
+07/04/2021, 13:06:12 ~ Xenon Factions Bot Authorised.
+07/04/2021, 13:06:43 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 13:06:43 ~ [ERROR] channels.bank is not a valid channel.
+07/04/2021, 13:06:44 ~ Xenon Factions Bot Authorised.
+07/04/2021, 13:06:45 ~ [CMD] Pastor#7551: .set bot
+07/04/2021, 13:06:51 ~ [CMD] Pastor#7551: .set bot paytwice true
+07/04/2021, 13:07:24 ~ Xenon Factions Bot Authorised.
+07/04/2021, 13:07:25 ~ [CMD] Pastor#7551: .set bot paytwice false
+07/04/2021, 13:07:32 ~ [CMD] Pastor#7551: .set bot hubcommand /ember
+07/04/2021, 13:07:37 ~ [CMD] Pastor#7551: .set bot hubcommand hi hi
+07/04/2021, 13:07:42 ~ [CMD] Pastor#7551: .set bot hubcommand /ruby
+07/04/2021, 13:17:58 ~ Xenon Factions Bot Authorised.
+07/04/2021, 13:17:59 ~ [CMD] Pastor#7551: .set
+07/04/2021, 13:18:02 ~ [CMD] Pastor#7551: .set commands
+07/04/2021, 13:18:10 ~ [CMD] Pastor#7551: .set commands tps /h
+07/04/2021, 13:19:13 ~ Xenon Factions Bot Authorised.
+07/04/2021, 13:19:13 ~ [CMD] Pastor#7551: .set commands tps /h
+07/04/2021, 13:19:19 ~ [CMD] Pastor#7551: .set commands
+07/04/2021, 13:19:22 ~ [CMD] Pastor#7551: .set commands tps /tps
+07/04/2021, 13:26:18 ~ Xenon Factions Bot Authorised.
+07/04/2021, 13:26:22 ~ [CMD] Pastor#7551: .set channels
+07/04/2021, 13:26:50 ~ Xenon Factions Bot Authorised.
+07/04/2021, 13:26:51 ~ [CMD] Pastor#7551: .set channels
+07/04/2021, 13:41:59 ~ Xenon Factions Bot Authorised.
+07/04/2021, 13:42:05 ~ [CMD] Pastor#7551: .set
+07/04/2021, 13:42:08 ~ [CMD] Pastor#7551: .set channels
+07/04/2021, 13:42:13 ~ [CMD] Pastor#7551: .set channels whitelist <#784751244425429002>
+07/04/2021, 13:42:15 ~ [CMD] Pastor#7551: .set channels
+07/04/2021, 13:47:12 ~ Xenon Factions Bot Authorised.
+07/04/2021, 13:47:17 ~ [CMD] Pastor#7551: .set channels tntalerts <#784751241376563261>
+07/04/2021, 13:47:19 ~ [CMD] Pastor#7551: .set channels
+07/04/2021, 13:47:26 ~ [CMD] Pastor#7551: .set channels playeralerts <#784751238331760650>
+07/04/2021, 13:47:32 ~ [CMD] Pastor#7551: .set channels creeperalerts <#784751095062331422>
+07/04/2021, 13:47:36 ~ [CMD] Pastor#7551: .set channels
+07/04/2021, 14:00:07 ~ Xenon Factions Bot Authorised.
+07/04/2021, 14:00:10 ~ [CMD] Pastor#7551: .set intervals
+07/04/2021, 14:00:13 ~ [CMD] Pastor#7551: .set intervals ftop 20
+08/04/2021, 09:00:25 ~ Xenon Factions Bot Authorised.
+08/04/2021, 09:00:33 ~ [CMD] Pastor#7551: .set
+08/04/2021, 09:00:36 ~ [CMD] Pastor#7551: .set roles
+08/04/2021, 09:00:46 ~ [CMD] Pastor#7551: .set roles wallsrole <@&751745039029239868>
+08/04/2021, 09:00:48 ~ [CMD] Pastor#7551: .set roles
+08/04/2021, 09:01:10 ~ Xenon Factions Bot Authorised.
+08/04/2021, 09:01:11 ~ [CMD] Pastor#7551: .set
+08/04/2021, 09:01:14 ~ [CMD] Pastor#7551: .set general
+08/04/2021, 09:01:20 ~ [CMD] Pastor#7551: .set general status i love tahda
+08/04/2021, 09:01:25 ~ [CMD] Pastor#7551: .set modules
+08/04/2021, 09:01:32 ~ [CMD] Pastor#7551: .set modules grace true
+08/04/2021, 09:01:38 ~ [CMD] Pastor#7551: .set bot
+08/04/2021, 09:01:41 ~ [CMD] Pastor#7551: .set commands
+08/04/2021, 09:01:50 ~ [CMD] Pastor#7551: .set channels
+08/04/2021, 09:01:52 ~ [CMD] Pastor#7551: .set intervals
+08/04/2021, 09:02:33 ~ Xenon Factions Bot Authorised.
+08/04/2021, 09:02:45 ~ [CMD] Pastor#7551: .clear
+08/04/2021, 09:02:49 ~ [CMD] Pastor#7551: .rpostclear
+08/04/2021, 09:02:53 ~ [CMD] Pastor#7551: .set modules
+08/04/2021, 09:02:59 ~ [CMD] Pastor#7551: .set modules walls true
+08/04/2021, 09:03:01 ~ [CMD] Pastor#7551: .clear
+08/04/2021, 09:03:08 ~ [CMD] Pastor#7551: .set modules grace false
+08/04/2021, 09:03:10 ~ [CMD] Pastor#7551: .clear
+08/04/2021, 09:10:41 ~ [ERROR] channels.bank is not a valid channel.
+08/04/2021, 09:10:41 ~ [ERROR] channels.bank is not a valid channel.
+08/04/2021, 09:10:42 ~ Xenon Factions Bot Authorised.
+08/04/2021, 09:10:42 ~ [CMD] Pastor#7551: .set alerts
+08/04/2021, 09:11:12 ~ Xenon Factions Bot Authorised.
+08/04/2021, 09:11:12 ~ [CMD] Pastor#7551: .set alerts
+08/04/2021, 09:11:45 ~ [CMD] Pastor#7551: .set
+08/04/2021, 09:15:51 ~ Xenon Factions Bot Authorised.
+08/04/2021, 09:15:51 ~ [CMD] Pastor#7551: .set tracker
+08/04/2021, 09:16:08 ~ Xenon Factions Bot Authorised.
+08/04/2021, 09:16:11 ~ [CMD] Pastor#7551: .set tracker
+08/04/2021, 09:16:27 ~ Xenon Factions Bot Authorised.
+08/04/2021, 09:16:31 ~ [CMD] Pastor#7551: .set tracker
+08/04/2021, 09:16:56 ~ Xenon Factions Bot Authorised.
+08/04/2021, 09:16:58 ~ [CMD] Pastor#7551: .set tracker
+08/04/2021, 09:18:16 ~ Xenon Factions Bot Authorised.
+08/04/2021, 09:18:23 ~ [CMD] Pastor#7551: .set tracker trackedfactions hello
+08/04/2021, 09:18:41 ~ Xenon Factions Bot Authorised.
+08/04/2021, 09:19:02 ~ [CMD] Pastor#7551: .set tracker trackedfactions hello
+08/04/2021, 09:19:13 ~ [CMD] Pastor#7551: .set tracker
+08/04/2021, 09:23:27 ~ Xenon Factions Bot Authorised.
+08/04/2021, 09:23:35 ~ [CMD] Pastor#7551: .set formats
+08/04/2021, 09:26:05 ~ Xenon Factions Bot Authorised.
+08/04/2021, 09:26:08 ~ [CMD] Pastor#7551: .set formats
+08/04/2021, 09:26:15 ~ [CMD] Pastor#7551: .set formats bankregex Bank: ${amountt}
+08/04/2021, 09:26:37 ~ Xenon Factions Bot Authorised.
+08/04/2021, 09:26:43 ~ [CMD] Pastor#7551: .set formats bankregex Bank: ${amountt}#
+08/04/2021, 09:26:56 ~ [CMD] Pastor#7551: .set formats bankregex Bank: ${amount}
+08/04/2021, 09:26:59 ~ [CMD] Pastor#7551: .set formats
+08/04/2021, 09:30:11 ~ Xenon Factions Bot Authorised.
+08/04/2021, 09:30:38 ~ [CMD] Pastor#7551: .set macro
+08/04/2021, 09:30:42 ~ [CMD] Pastor#7551: .set macro macrodelay 12
+08/04/2021, 09:30:44 ~ [CMD] Pastor#7551: .set macro
+08/04/2021, 09:30:52 ~ [CMD] Pastor#7551: .set macro macrocommand /f top
+08/04/2021, 09:31:17 ~ Xenon Factions Bot Authorised.
+08/04/2021, 09:31:18 ~ [CMD] Pastor#7551: .set
+08/04/2021, 09:31:39 ~ [CMD] Pastor#7551: .set
+08/04/2021, 09:31:39 ~ Xenon Factions Bot Authorised.
+08/04/2021, 09:32:29 ~ [CMD] Pastor#7551: .set
+08/04/2021, 09:38:12 ~ Xenon Factions Bot Authorised.
+08/04/2021, 09:38:15 ~ [CMD] Pastor#7551: .set other
+08/04/2021, 09:38:43 ~ Xenon Factions Bot Authorised.
+08/04/2021, 09:38:47 ~ [CMD] Pastor#7551: .set other
+08/04/2021, 09:38:56 ~ [CMD] Pastor#7551: .set other acceptmessage you are accepted
+08/04/2021, 09:38:59 ~ [CMD] Pastor#7551: .set other
+08/04/2021, 14:22:25 ~ Xenon Factions Bot Authorised.
+08/04/2021, 14:22:27 ~ [CMD] Pastor#7551: .help
+08/04/2021, 14:22:33 ~ [CMD] Pastor#7551: .help moderation
+08/04/2021, 14:22:36 ~ [CMD] Pastor#7551: .help fun
+08/04/2021, 14:22:38 ~ [CMD] Pastor#7551: .help checks
+08/04/2021, 14:22:44 ~ [CMD] Pastor#7551: .help ingame
+08/04/2021, 14:22:46 ~ [CMD] Pastor#7551: .help admin
+08/04/2021, 14:30:24 ~ Xenon Factions Bot Authorised.
+08/04/2021, 14:30:25 ~ [CMD] Pastor#7551: .help
+08/04/2021, 14:33:38 ~ Xenon Factions Bot Authorised.
+08/04/2021, 14:33:38 ~ [CMD] Pastor#7551: .help
+08/04/2021, 14:34:27 ~ Xenon Factions Bot Authorised.
+08/04/2021, 14:34:31 ~ [CMD] Pastor#7551: .help
+08/04/2021, 14:35:51 ~ Xenon Factions Bot Authorised.
+08/04/2021, 14:35:54 ~ [CMD] Pastor#7551: .help
+08/04/2021, 14:35:54 ~ [ERROR] async send(content, options) {
+    const User = require('../User');
+    const GuildMember = require('../GuildMember');
+
+    if (this instanceof User || this instanceof GuildMember) {
+      return this.createDM().then(dm => dm.send(content, options));
+    }
+
+    let apiMessage;
+
+    if (content instanceof APIMessage) {
+      apiMessage = content.resolveData();
+    } else {
+      apiMessage = APIMessage.create(this, content, options).resolveData();
+      if (Array.isArray(apiMessage.data.content)) {
+        return Promise.all(apiMessage.split().map(this.send.bind(this)));
+      }
+    }
+
+    const { data, files } = await apiMessage.resolveFiles();
+    return this.client.api.channels[this.id].messages
+      .post({ data, files })
+      .then(d => this.client.actions.MessageCreate.handle(d).message);
+  } is not a valid channel.
+08/04/2021, 14:36:15 ~ Xenon Factions Bot Authorised.
+08/04/2021, 14:36:25 ~ [CMD] Pastor#7551: .help
+08/04/2021, 14:36:33 ~ [CMD] Pastor#7551: .help moderation
+08/04/2021, 14:36:40 ~ [CMD] Pastor#7551: .help admin
+08/04/2021, 14:36:42 ~ [CMD] Pastor#7551: .help ingame
+08/04/2021, 14:36:44 ~ [CMD] Pastor#7551: .help checks
+08/04/2021, 14:36:51 ~ [CMD] Pastor#7551: .help fun
+08/04/2021, 14:37:05 ~ Xenon Factions Bot Authorised.
+08/04/2021, 14:37:08 ~ [CMD] Pastor#7551: .help fun help
+08/04/2021, 14:37:18 ~ [CMD] Pastor#7551: .help help
+08/04/2021, 14:38:04 ~ Xenon Factions Bot Authorised.
+08/04/2021, 14:38:08 ~ [CMD] Pastor#7551: .help
+08/04/2021, 14:38:12 ~ [CMD] Pastor#7551: .help moderation
+08/04/2021, 14:38:16 ~ [CMD] Pastor#7551: .help moderation help
+08/04/2021, 14:40:06 ~ Xenon Factions Bot Authorised.
+08/04/2021, 14:40:08 ~ [CMD] Pastor#7551: .help moderation help
+08/04/2021, 14:40:37 ~ [CMD] Pastor#7551: .help moderation help
+08/04/2021, 14:40:37 ~ Xenon Factions Bot Authorised.
+08/04/2021, 14:45:32 ~ Xenon Factions Bot Authorised.
+08/04/2021, 14:45:39 ~ [CMD] Pastor#7551: .help moderation
+08/04/2021, 14:45:43 ~ [CMD] Pastor#7551: .help moderation help
+08/04/2021, 15:03:33 ~ [CMD] Pastor#7551: .help
+08/04/2021, 15:03:33 ~ Xenon Factions Bot Authorised.
+08/04/2021, 15:03:34 ~ [CMD] Pastor#7551: .help
+08/04/2021, 15:03:36 ~ [CMD] Pastor#7551: .help other
+08/04/2021, 15:03:54 ~ Xenon Factions Bot Authorised.
+08/04/2021, 15:03:57 ~ [CMD] Pastor#7551: .help other
+08/04/2021, 15:04:10 ~ Xenon Factions Bot Authorised.
+08/04/2021, 15:04:13 ~ [CMD] Pastor#7551: .help other
+08/04/2021, 18:25:04 ~ Xenon Factions Bot Authorised.
+08/04/2021, 18:25:05 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 18:25:51 ~ Xenon Factions Bot Authorised.
+08/04/2021, 18:25:53 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 18:26:46 ~ Xenon Factions Bot Authorised.
+08/04/2021, 18:26:46 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 18:27:12 ~ Xenon Factions Bot Authorised.
+08/04/2021, 18:27:12 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 18:28:39 ~ Xenon Factions Bot Authorised.
+08/04/2021, 18:28:45 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 18:51:34 ~ Xenon Factions Bot Authorised.
+08/04/2021, 18:51:54 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 18:55:21 ~ Xenon Factions Bot Authorised.
+08/04/2021, 18:55:22 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:00:00 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:00:05 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:00:58 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:01:04 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:03:15 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:03:15 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:04:03 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:04:03 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:05:09 ~ [CMD] Pastor#7551: .runcmd msg lmge hi
+08/04/2021, 19:05:50 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:05:54 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:07:52 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:08:45 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:10:43 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:10:48 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:11:16 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:11:20 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:11:45 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:11:47 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:12:42 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:12:44 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:13:01 ~ [CMD] Pastor#7551: .runcmd msg emilyysauce hi
+08/04/2021, 19:13:53 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:13:53 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:18:14 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:18:17 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:19:23 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:19:24 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:20:46 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:20:46 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:21:13 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:21:15 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:22:50 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:22:51 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:24:10 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:24:18 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:24:34 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:24:37 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:24:52 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:25:11 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:28:43 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:28:45 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:30:17 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:30:22 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:30:57 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:31:31 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:35:28 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:35:33 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:36:51 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:36:59 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:41:07 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:41:08 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:45:05 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:45:07 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:45:50 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:45:51 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:54:47 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:55:18 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:55:19 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:56:08 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:56:18 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 19:58:04 ~ Xenon Factions Bot Authorised.
+08/04/2021, 19:58:08 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 20:01:14 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 20:01:14 ~ Xenon Factions Bot Authorised.
+08/04/2021, 20:03:12 ~ Xenon Factions Bot Authorised.
+08/04/2021, 20:03:18 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 20:04:21 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 20:05:34 ~ Xenon Factions Bot Authorised.
+08/04/2021, 20:05:36 ~ [CMD] Pastor#7551: .vanish
+08/04/2021, 20:05:55 ~ [CMD] Pastor#7551: .ftop
+08/04/2021, 20:09:01 ~ Xenon Factions Bot Authorised.
+08/04/2021, 20:09:06 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 10:23:26 ~ Xenon Factions Bot Authorised.
+09/04/2021, 10:23:31 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 10:24:47 ~ Xenon Factions Bot Authorised.
+09/04/2021, 10:25:00 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 10:26:02 ~ [ERROR] channels.bank is not a valid channel.
+09/04/2021, 10:26:02 ~ [ERROR] channels.bank is not a valid channel.
+09/04/2021, 10:26:03 ~ Xenon Factions Bot Authorised.
+09/04/2021, 10:26:03 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 10:27:13 ~ Xenon Factions Bot Authorised.
+09/04/2021, 10:27:15 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 10:29:45 ~ Xenon Factions Bot Authorised.
+09/04/2021, 10:29:46 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 10:30:20 ~ Xenon Factions Bot Authorised.
+09/04/2021, 10:30:20 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 10:30:45 ~ Xenon Factions Bot Authorised.
+09/04/2021, 10:30:50 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 10:31:37 ~ [ERROR] channels.bank is not a valid channel.
+09/04/2021, 10:31:37 ~ [ERROR] channels.bank is not a valid channel.
+09/04/2021, 10:31:41 ~ [ERROR] channels.bank is not a valid channel.
+09/04/2021, 10:31:41 ~ [ERROR] channels.bank is not a valid channel.
+09/04/2021, 10:31:43 ~ Xenon Factions Bot Authorised.
+09/04/2021, 10:31:52 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 10:33:14 ~ Xenon Factions Bot Authorised.
+09/04/2021, 10:33:20 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 10:36:25 ~ Xenon Factions Bot Authorised.
+09/04/2021, 11:29:29 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 11:30:30 ~ Xenon Factions Bot Authorised.
+09/04/2021, 11:30:33 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 11:31:22 ~ Xenon Factions Bot Authorised.
+09/04/2021, 11:31:29 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 11:33:02 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 11:33:02 ~ Xenon Factions Bot Authorised.
+09/04/2021, 11:35:28 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 11:35:28 ~ Xenon Factions Bot Authorised.
+09/04/2021, 11:35:37 ~ Xenon Factions Bot Authorised.
+09/04/2021, 11:35:39 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 11:37:15 ~ Xenon Factions Bot Authorised.
+09/04/2021, 11:37:18 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 11:38:02 ~ Xenon Factions Bot Authorised.
+09/04/2021, 11:38:05 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 11:40:28 ~ Xenon Factions Bot Authorised.
+09/04/2021, 11:40:33 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 11:41:39 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 11:43:01 ~ Xenon Factions Bot Authorised.
+09/04/2021, 11:43:01 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 11:43:34 ~ Xenon Factions Bot Authorised.
+09/04/2021, 11:43:35 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 11:44:26 ~ Xenon Factions Bot Authorised.
+09/04/2021, 11:44:29 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 11:45:40 ~ Xenon Factions Bot Authorised.
+09/04/2021, 11:45:45 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 11:46:32 ~ Xenon Factions Bot Authorised.
+09/04/2021, 11:46:37 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 11:47:48 ~ Xenon Factions Bot Authorised.
+09/04/2021, 11:47:52 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 11:50:49 ~ Xenon Factions Bot Authorised.
+09/04/2021, 11:50:54 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 11:52:29 ~ Xenon Factions Bot Authorised.
+09/04/2021, 11:52:40 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 11:54:07 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 12:00:06 ~ Xenon Factions Bot Authorised.
+09/04/2021, 12:00:09 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 12:00:12 ~ [CMD] Pastor#7551: .vanish 1
+09/04/2021, 12:00:52 ~ Xenon Factions Bot Authorised.
+09/04/2021, 12:00:52 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 12:00:54 ~ [CMD] Pastor#7551: .vanish 1
+09/04/2021, 12:01:22 ~ [CMD] Pastor#7551: .vanish 2
+09/04/2021, 12:03:18 ~ Xenon Factions Bot Authorised.
+09/04/2021, 12:03:19 ~ [CMD] Pastor#7551: .vanish 1
+09/04/2021, 12:03:55 ~ Xenon Factions Bot Authorised.
+09/04/2021, 12:03:55 ~ [CMD] Pastor#7551: .vanish 1
+09/04/2021, 12:05:53 ~ Xenon Factions Bot Authorised.
+09/04/2021, 12:05:59 ~ [CMD] Pastor#7551: .vanish 1
+09/04/2021, 12:06:52 ~ [CMD] Pastor#7551: .vanish 2
+09/04/2021, 12:07:40 ~ Xenon Factions Bot Authorised.
+09/04/2021, 12:07:44 ~ [CMD] Pastor#7551: .vanish 2
+09/04/2021, 12:08:34 ~ Xenon Factions Bot Authorised.
+09/04/2021, 12:08:36 ~ [CMD] Pastor#7551: .vanish 2
+09/04/2021, 12:09:16 ~ Xenon Factions Bot Authorised.
+09/04/2021, 12:09:35 ~ Xenon Factions Bot Authorised.
+09/04/2021, 12:09:37 ~ [CMD] Pastor#7551: .vanish2
+09/04/2021, 12:09:42 ~ [CMD] Pastor#7551: .vanish2
+09/04/2021, 12:09:48 ~ [CMD] Pastor#7551: .vanish 2
+09/04/2021, 12:10:11 ~ [CMD] Pastor#7551: .vanish
+09/04/2021, 12:10:12 ~ Xenon Factions Bot Authorised.
+09/04/2021, 12:10:13 ~ [CMD] Pastor#7551: .vanish 1
+09/04/2021, 12:10:15 ~ [CMD] Pastor#7551: .vanish 2
+09/04/2021, 12:11:12 ~ [CMD] Pastor#7551: .fwho hedgehog_0
+09/04/2021, 12:11:26 ~ [CMD] Pastor#7551: .vanish 1
+09/04/2021, 12:11:28 ~ [CMD] Pastor#7551: .vanish 2
+09/04/2021, 12:17:04 ~ Xenon Factions Bot Authorised.
+09/04/2021, 12:17:08 ~ [CMD] Pastor#7551: .help
+09/04/2021, 12:17:15 ~ [CMD] madtwo#6947: .help moderation
+09/04/2021, 12:17:15 ~ [CMD] ace#1111: .help Administration
+09/04/2021, 12:17:19 ~ [CMD] madtwo#6947: .kick
+09/04/2021, 12:17:33 ~ [CMD] madtwo#6947: .help
+09/04/2021, 12:18:41 ~ [CMD] madtwo#6947: .help moderation
+09/04/2021, 12:18:44 ~ [CMD] madtwo#6947: .demote
+09/04/2021, 12:19:15 ~ [CMD] madtwo#6947: .demote
+09/04/2021, 12:19:52 ~ Xenon Factions Bot Authorised.
+09/04/2021, 12:19:57 ~ [CMD] madtwo#6947: .help moderation
+09/04/2021, 12:19:58 ~ [CMD] madtwo#6947: .demote
+09/04/2021, 12:20:11 ~ [CMD] madtwo#6947: .demote <@!724861275552612422> TestRole2 <#784751095062331422>
+09/04/2021, 12:20:38 ~ [CMD] madtwo#6947: .demote <@!724861275552612422> <@&825112994567815218> <#784751095062331422>
+09/04/2021, 12:21:32 ~ Xenon Factions Bot Authorised.
+09/04/2021, 12:21:40 ~ [CMD] madtwo#6947: .help
+09/04/2021, 12:21:44 ~ [CMD] madtwo#6947: .help moderation
+09/04/2021, 12:21:48 ~ [CMD] madtwo#6947: .setpaypal
+09/04/2021, 12:21:58 ~ [CMD] madtwo#6947: .setpaypal <@!282241742563180544> email@test.com
+09/04/2021, 12:21:59 ~ [CMD] Pastor#7551: .demote <@!282241742563180544> <@&804654493622730803> <#784751095062331422>
+09/04/2021, 12:22:06 ~ [CMD] Pastor#7551: .demote <@!282241742563180544> <@&804654493622730803> <#784751095062331422>
+09/04/2021, 12:22:07 ~ [CMD] madtwo#6947: .whitelist
+09/04/2021, 12:22:21 ~ [CMD] madtwo#6947: .setign <@!282241742563180544> madtwoo
+09/04/2021, 12:22:35 ~ [CMD] madtwo#6947: .setpaypal <@!282241742563180544> uaihsf@testemail.com
+09/04/2021, 12:23:17 ~ [CMD] madtwo#6947: .whitelist
+09/04/2021, 12:24:00 ~ [CMD] madtwo#6947: .help moderation
+09/04/2021, 12:24:08 ~ [CMD] madtwo#6947: .lock
+09/04/2021, 12:24:15 ~ [CMD] madtwo#6947: .unlock <#784751095062331422>
+09/04/2021, 12:25:41 ~ [CMD] madtwo#6947: .help moderation
+09/04/2021, 12:25:55 ~ [CMD] madtwo#6947: .say test
+09/04/2021, 12:26:08 ~ [CMD] Pastor#7551: .unlock <#784751095062331422>
+09/04/2021, 12:26:27 ~ [CMD] madtwo#6947: .purge 4
+09/04/2021, 12:26:30 ~ [CMD] madtwo#6947: .purge 4
+09/04/2021, 12:26:44 ~ [CMD] madtwo#6947: .playtime top
+09/04/2021, 12:26:49 ~ [CMD] madtwo#6947: .purge 2
+09/04/2021, 12:26:52 ~ [CMD] madtwo#6947: .botinfo
+09/04/2021, 12:26:55 ~ [CMD] madtwo#6947: .serverinfo
+09/04/2021, 12:27:08 ~ [CMD] madtwo#6947: .botinfo
+09/04/2021, 12:27:14 ~ [CMD] madtwo#6947: .rposttop
+09/04/2021, 12:27:20 ~ [CMD] madtwo#6947: .play
+09/04/2021, 12:27:25 ~ [CMD] madtwo#6947: .play hey i just met u
+09/04/2021, 12:27:48 ~ [CMD] madtwo#6947: .play after dark
+09/04/2021, 12:27:58 ~ [CMD] madtwo#6947: .skip
+09/04/2021, 12:27:59 ~ [CMD] madtwo#6947: .leave
+09/04/2021, 12:28:12 ~ [CMD] madtwo#6947: .purge 6
+09/04/2021, 12:28:15 ~ [CMD] Pastor#7551: .unlock
+09/04/2021, 12:28:19 ~ [CMD] madtwo#6947: .purge 7
+09/04/2021, 12:28:24 ~ [CMD] madtwo#6947: .purge 6
+09/04/2021, 12:28:28 ~ [CMD] madtwo#6947: .botinfo
+09/04/2021, 12:28:48 ~ [CMD] Pastor#7551: .help
+09/04/2021, 12:28:49 ~ [CMD] Pastor#7551: .botinfo
+09/04/2021, 12:29:17 ~ [CMD] madtwo#6947: .help other
+09/04/2021, 12:29:22 ~ [CMD] madtwo#6947: .help kill logs
+09/04/2021, 12:29:29 ~ [CMD] madtwo#6947: .help kill
+09/04/2021, 12:29:42 ~ [CMD] madtwo#6947: .help
+09/04/2021, 12:29:45 ~ [CMD] madtwo#6947: .help fun
+09/04/2021, 12:30:14 ~ [CMD] Pastor#7551: .botstats
+09/04/2021, 12:30:14 ~ [CMD] madtwo#6947: .help
+09/04/2021, 12:30:25 ~ Xenon Factions Bot Authorised.
+09/04/2021, 12:31:08 ~ [CMD] madtwo#6947: .help
+09/04/2021, 12:31:10 ~ [CMD] madtwo#6947: .help checks
+09/04/2021, 12:31:12 ~ [CMD] madtwo#6947: .weewoo
+09/04/2021, 12:31:15 ~ [CMD] madtwo#6947: .weewoo on
+09/04/2021, 12:31:22 ~ [CMD] madtwo#6947: .grace disable
+09/04/2021, 12:31:29 ~ [CMD] madtwo#6947: .grace disable 12h
+09/04/2021, 12:31:31 ~ [CMD] madtwo#6947: .weewoo on
+09/04/2021, 12:32:06 ~ [CMD] madtwo#6947: .weewoo off
+09/04/2021, 12:32:17 ~ [CMD] Pastor#7551: .botstats
+09/04/2021, 12:32:26 ~ Xenon Factions Bot Authorised.
+09/04/2021, 12:32:36 ~ [CMD] madtwo#6947: .help
+09/04/2021, 12:32:39 ~ [CMD] madtwo#6947: .help ingame
+09/04/2021, 12:32:44 ~ [CMD] madtwo#6947: .chatlog
+09/04/2021, 12:32:53 ~ [CMD] madtwo#6947: .ftop
+09/04/2021, 12:33:03 ~ [CMD] madtwo#6947: .settings
+09/04/2021, 12:33:10 ~ [CMD] madtwo#6947: .settings modules
+09/04/2021, 12:33:26 ~ [ERROR] channels.bank is not a valid channel.
+09/04/2021, 12:33:26 ~ [ERROR] channels.bank is not a valid channel.
+09/04/2021, 12:33:26 ~ Xenon Factions Bot Authorised.
+09/04/2021, 12:33:28 ~ [CMD] Pastor#7551: .botinfo
+09/04/2021, 12:33:32 ~ [CMD] Pastor#7551: .botinfo
+09/04/2021, 12:33:35 ~ [CMD] Pastor#7551: .botstats

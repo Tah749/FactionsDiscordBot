@@ -1,0 +1,119 @@
+token: "DISCORD_BOT_TOKEN"
+bot:
+  email: "MINECRAFT@EMAIL.COM"
+  password: "PASSWORD"
+  server_ip: "pvp.thearchon.net"
+  hub_command: "/amber"
+  port: "25565"
+  pay_twice: false
+  grace: false
+discord:
+  prefix: "."
+  color: "#2F3136"
+  guild: "730158803793870958"
+  allowed_guilds:
+    - ""
+  status: "Active"
+modules:
+  serverchat: false
+  goodbye_logs: true
+  welcome_logs: true
+  delete_logs: true
+  walls: false
+  buffers: false
+  routpost: false
+  music: true
+  bank: true
+  vanish: true
+  kill_log: true
+  claim_tracker: false
+  player_tracker: false
+  bank_tracker: false
+  applications: true
+  auto_baltop: true
+  auto_flist: true
+  auto_tps: true
+  auto_ftop: false
+  auto_ptop: false
+channels:
+  serverchat: "784751244756779040"
+  welcome: "784751244756779040"
+  goodbye: "784751244756779040"
+  application_logs: "784751244756779040"
+  whitelist: "784751244425429002"
+  bank: "784751244756779040"
+  weewoo: "784751244756779040"
+  walls: "784751244756779040"
+  buffers: "784751244756779040"
+  baltop: "784751244756779040"
+  music: "784751244756779040"
+  flist: "784751244756779040"
+  ftop: "784751244756779040"
+  tps: "784751244756779040"
+  ptop: "784751244756779040"
+  routpost: "784751244756779040"
+  player_tracker: "784751244756779040"
+  bank_tracker: "784751244756779040"
+  claim_tracker: "784751244756779040"
+  kill_logs: "784751244756779040"
+  tnt_alerts: "784751241376563261"
+  creeper_alerts: "784751095062331422"
+  player_alerts: "784751238331760650"
+  macro: "784751244756779040"
+  discord_logs: "784751244756779040"
+roles:
+  admin: "830039249507713044"
+  weewoo: ""
+  walls: "751745039029239868"
+  buffers: ""
+  routpost: ""
+  claim_tracker_role_to_tag: ""
+intervals:
+  walls: "1"
+  buffers: "1"
+  routpost: "1"
+  baltop: "11"
+  flist: "10"
+  ftop: "20"
+  tps: "20"
+  ptop: "11"
+commands:
+  ftop: "/f top"
+  ptop: "/f ptop"
+  fwho: "/f who"
+  flist: "/f list"
+  baltop: "/baltop"
+  pay: "/pay"
+  mctop: "/mctop"
+  koth: "/koth"
+  rotate: "/f invite "
+  tps: "/tps"
+  routpost: "/rpost"
+  outpost: "/outpost"
+alerts:
+  creeper_alerts: false
+  tnt_alerts: false
+  player_alerts: false
+tracker:
+  tracked_faction:
+    - "NoXuS"
+  claim_to_tag_for: "20"
+  claim_command: "/f who"
+formats:
+  deposit_regex: "{user} gave {amount} to your faction"
+  withdraw_regex: "{user} took {amount} from your faction"
+  kill_regex: "� {killed} was killed by {killer}"
+  claim_regex: "Land | Power | Maxpower | {land} / {power} / {maxpower}"
+  player_regex: "Members online ({players}):"
+  bank_regex: "Bank: ${amount}"
+macro:
+  macro_command: "/f top"
+  macro_delay: "12"
+other:
+  welcome_message: "{member} has joined"
+  goodbye_message: "{member} has left"
+  accept_message: "you are accepted"
+  denied_message: "You have been denied"
+  application_status: "Pending"
+  weewoo_message: "We are getting raided! {role} get on!"
+  weewoo_disabled: "WeeWoo has been disabled, good work!"
