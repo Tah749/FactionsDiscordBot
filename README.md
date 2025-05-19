@@ -1,5 +1,7 @@
 # Minecraft <-> Discord Factions Bot
 
+> ⚠️ **Note:** This project was originally created in 2020 and is now deprecated.
+
 A robust, full-featured Discord bot designed specifically for Minecraft Factions servers. Xenon connects Discord users to their in-game counterparts and provides powerful moderation, faction management, alerts, and automation tools.
 
 ---
