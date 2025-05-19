@@ -28,6 +28,7 @@ This was originally developed as a private project intended for client distribut
 - `playtime`, `deposit`, `playtop`, `dtop` for player contribution tracking.
 - `walls`, `buffers`, `rposttop`, `ctop`, `btop` for checker activity.
 - Live `ftop`, `ptop`, and `baltop` integration.
+- Vanish tracker that allowed players to bypass server plugins that hid staff members ingame (`vanish`)
 
 ### 🚨 **Alerts & Detectors**
 - TNT, player, and creeper proximity alerts (with coordinates).
@@ -42,6 +43,13 @@ This was originally developed as a private project intended for client distribut
 - YAML-driven config system: bot settings, role/channel IDs, regex formats, toggles.
 - Built-in `settings` command for real-time updates to config via Discord.
 - Optional modules can be enabled/disabled per feature: `walls`, `bank`, `music`, etc.
+
+---
+
+### Preview
+
+F-Top Command - Retrieves ingame leaderboard and formats
+![FTop Command](showcase/FTopUpdate.png)
 
 ---
 
