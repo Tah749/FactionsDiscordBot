@@ -71,3 +71,6 @@ Ingame Music - Ingame command that plays music through the discord bot in a disc
 - MongoDB (used for auth logging)
 - FFmpeg (required for music playback)
 - A verified Minecraft account (for the bot)
+
+### 📝 License
+This project is MIT licensed.
